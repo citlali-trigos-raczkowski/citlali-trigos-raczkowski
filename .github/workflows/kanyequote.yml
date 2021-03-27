@@ -20,7 +20,7 @@ jobs:
 
       - name: Add Fetched Quote to README
         run: |
-          echo '"' $(curl -s https://api.kanye.rest/ |  python -c "import sys,json; print json.load(sys.stdin)['quote']") '" - Kanye West\n\nLast Updated: ' $(date -u)>> quote.txt
+          echo '"' $(curl -s https://api.kanye.rest/ |  python -c "import sys,json; print json.load(sys.stdin)['quote']") '" - Kanye West <br/> <br/>Last Updated: ' $(date -u)>> quote.txt
           cat readme-template.md quote.txt > README.md
       - name: Commit and push
         run: |-
