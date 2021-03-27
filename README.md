@@ -6,10 +6,10 @@ I'm Citlali!
 
 I'm currently reading (3/21):
 
-- Linear Algebra Done Right by Sheldon Axler
-- Data Sketches by Bremer and Wu
-- White Fragility by Robin DiAngelo
-- Sapiens by Yuval Noah Harari
+- [Linear Algebra Done Right](https://linear.axler.net/) by Sheldon Axler
+- [Data Sketches](https://www.datasketch.es/) by Bremer and Wu
+- [White Fragility](https://www.robindiangelo.com/publications/) by Robin DiAngelo
+- [Sapiens](https://www.ynharari.com/book/sapiens-2/) by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
 
