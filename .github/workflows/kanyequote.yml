@@ -22,13 +22,12 @@ jobs:
         run: |
           echo '"' $(curl -s https://api.kanye.rest/ |  python -c "import sys,json; print json.load(sys.stdin)['quote']") '" - Kanye West\n\nLast Updated: ' $(date -u)>> quote.txt
           cat readme-template.md quote.txt > README.md
-
       - name: Commit and push
-          run: |-
-            git config user.name "Automated"
-            git config user.email "actions@users.noreply.github.com"
-            git status
-            git add README.md
-            timestamp=$(date -u)
-            git commit -m "Latest update: ${timestamp}" || exit 0
-            git push
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git status
+          git add README.md
+          timestamp=$(date -u)
+          git commit -m "Latest update: ${timestamp}" || exit 0
+          git push
