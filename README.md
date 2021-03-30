@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Tue Mar 30 12:59:56 UTC 2021
+" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 30 13:33:22 UTC 2021
