@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Tue Mar 30 22:16:12 UTC 2021
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Tue Mar 30 22:46:20 UTC 2021
