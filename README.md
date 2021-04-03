@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Apr 3 04:35:39 UTC 2021
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 3 05:04:01 UTC 2021
