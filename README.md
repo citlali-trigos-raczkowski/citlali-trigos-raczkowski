@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sat Apr 3 23:15:26 UTC 2021
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sat Apr 3 23:46:06 UTC 2021
