@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Mon Apr 5 12:21:15 UTC 2021
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Apr 5 13:00:17 UTC 2021
