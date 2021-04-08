@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Apr 8 12:59:54 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Apr 8 13:33:10 UTC 2021
