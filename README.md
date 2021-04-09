@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 9 03:01:39 UTC 2021
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Fri Apr 9 03:34:11 UTC 2021
