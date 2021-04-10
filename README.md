@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sat Apr 10 14:50:09 UTC 2021
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sat Apr 10 15:14:12 UTC 2021
