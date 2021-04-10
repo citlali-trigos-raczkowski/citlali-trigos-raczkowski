@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sat Apr 10 22:46:08 UTC 2021
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sat Apr 10 23:15:16 UTC 2021
