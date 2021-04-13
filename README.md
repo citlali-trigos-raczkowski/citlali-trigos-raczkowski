@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Tue Apr 13 12:59:27 UTC 2021
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Tue Apr 13 13:32:27 UTC 2021
