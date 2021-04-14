@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Wed Apr 14 10:42:48 UTC 2021
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Wed Apr 14 10:55:14 UTC 2021
