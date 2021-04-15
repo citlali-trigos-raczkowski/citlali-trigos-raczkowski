@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Wed Apr 14 23:46:56 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Thu Apr 15 00:44:27 UTC 2021
