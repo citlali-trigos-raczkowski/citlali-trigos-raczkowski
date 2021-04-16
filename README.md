@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Fri Apr 16 15:14:54 UTC 2021
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Fri Apr 16 15:40:37 UTC 2021
