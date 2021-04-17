@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Sat Apr 17 19:47:37 UTC 2021
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 17 20:14:18 UTC 2021
