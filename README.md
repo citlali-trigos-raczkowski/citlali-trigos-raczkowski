@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sun Apr 18 22:46:20 UTC 2021
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Sun Apr 18 23:13:35 UTC 2021
