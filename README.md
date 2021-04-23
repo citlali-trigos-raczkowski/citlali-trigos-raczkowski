@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 23 22:50:16 UTC 2021
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Fri Apr 23 23:16:01 UTC 2021
