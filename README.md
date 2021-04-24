@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sat Apr 24 19:04:28 UTC 2021
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Apr 24 19:29:25 UTC 2021
