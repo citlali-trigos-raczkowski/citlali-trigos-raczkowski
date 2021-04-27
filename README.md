@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Tue Apr 27 17:29:26 UTC 2021
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Tue Apr 27 18:06:37 UTC 2021
