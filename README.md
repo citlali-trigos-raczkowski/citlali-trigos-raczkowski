@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Wed Apr 28 13:01:20 UTC 2021
+" 2024 " - Kanye West <br/> <br/>Last Updated:  Wed Apr 28 13:38:42 UTC 2021
