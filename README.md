@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Wed Apr 28 07:52:04 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Apr 28 08:16:35 UTC 2021
