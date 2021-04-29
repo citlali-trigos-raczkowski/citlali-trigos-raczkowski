@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 16:47:26 UTC 2021
+" I'm the best " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 17:37:12 UTC 2021
