@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 22:15:12 UTC 2021
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 22:42:36 UTC 2021
