@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 13:51:53 UTC 2021
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Thu Apr 29 14:12:43 UTC 2021
