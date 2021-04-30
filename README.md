@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Fri Apr 30 14:33:19 UTC 2021
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Fri Apr 30 14:49:36 UTC 2021
