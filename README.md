@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat May 1 03:58:52 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sat May 1 04:32:18 UTC 2021
