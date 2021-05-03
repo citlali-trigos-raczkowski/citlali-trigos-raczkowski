@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon May 3 06:15:47 UTC 2021
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon May 3 06:52:30 UTC 2021
