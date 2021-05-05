@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Wed May 5 23:43:06 UTC 2021
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Wed May 5 23:56:40 UTC 2021
