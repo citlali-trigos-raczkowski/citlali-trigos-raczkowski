@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Thu May 6 17:35:54 UTC 2021
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Thu May 6 18:06:29 UTC 2021
