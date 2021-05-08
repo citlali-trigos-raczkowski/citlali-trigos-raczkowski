@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sat May 8 13:53:04 UTC 2021
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat May 8 14:10:27 UTC 2021
