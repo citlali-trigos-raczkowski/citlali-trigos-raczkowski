@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Mon May 10 08:57:01 UTC 2021
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon May 10 09:23:05 UTC 2021
