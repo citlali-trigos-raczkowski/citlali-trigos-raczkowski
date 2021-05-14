@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Fri May 14 06:15:12 UTC 2021
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Fri May 14 06:48:17 UTC 2021
