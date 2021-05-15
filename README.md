@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sat May 15 21:53:40 UTC 2021
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Sat May 15 22:14:36 UTC 2021
