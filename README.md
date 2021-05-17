@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Mon May 17 20:52:05 UTC 2021
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Mon May 17 21:11:44 UTC 2021
