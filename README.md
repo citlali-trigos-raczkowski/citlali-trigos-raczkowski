@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Tue May 18 23:57:37 UTC 2021
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Wed May 19 01:16:37 UTC 2021
