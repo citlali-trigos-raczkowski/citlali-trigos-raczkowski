@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Fri May 21 22:38:10 UTC 2021
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Fri May 21 22:54:59 UTC 2021
