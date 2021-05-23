@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sun May 23 09:51:44 UTC 2021
+" Buy property " - Kanye West <br/> <br/>Last Updated:  Sun May 23 10:13:17 UTC 2021
