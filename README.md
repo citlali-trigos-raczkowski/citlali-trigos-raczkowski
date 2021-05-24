@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Mon May 24 22:25:13 UTC 2021
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Mon May 24 22:45:29 UTC 2021
