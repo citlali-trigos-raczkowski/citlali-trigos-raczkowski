@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Tue May 25 05:16:49 UTC 2021
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Tue May 25 06:04:36 UTC 2021
