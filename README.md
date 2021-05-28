@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri May 28 20:17:51 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Fri May 28 21:01:28 UTC 2021
