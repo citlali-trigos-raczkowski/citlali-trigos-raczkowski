@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Sat May 29 11:59:40 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat May 29 13:06:41 UTC 2021
