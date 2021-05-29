@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sat May 29 15:00:24 UTC 2021
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sat May 29 15:52:18 UTC 2021
