@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sun May 30 16:55:00 UTC 2021
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sun May 30 18:44:29 UTC 2021
