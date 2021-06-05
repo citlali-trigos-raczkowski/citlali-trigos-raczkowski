@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sat Jun 5 10:14:45 UTC 2021
+" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Sat Jun 5 11:14:22 UTC 2021
