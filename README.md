@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Tue Jun 8 07:29:22 UTC 2021
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Jun 8 07:57:27 UTC 2021
