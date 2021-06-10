@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Thu Jun 10 13:43:36 UTC 2021
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Thu Jun 10 14:01:39 UTC 2021
