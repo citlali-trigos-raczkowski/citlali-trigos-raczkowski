@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Thu Jun 10 22:50:39 UTC 2021
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 10 23:10:42 UTC 2021
