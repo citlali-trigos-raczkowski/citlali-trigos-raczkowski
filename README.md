@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Fri Jun 11 21:50:32 UTC 2021
+" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Fri Jun 11 22:11:00 UTC 2021
