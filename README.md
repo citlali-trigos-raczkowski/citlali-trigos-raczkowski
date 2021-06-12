@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 11:08:59 UTC 2021
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 11:26:35 UTC 2021
