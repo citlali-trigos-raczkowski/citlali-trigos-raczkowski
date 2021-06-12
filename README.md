@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 19:47:01 UTC 2021
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 20:10:51 UTC 2021
