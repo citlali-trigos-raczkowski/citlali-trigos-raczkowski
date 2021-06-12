@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 17:14:06 UTC 2021
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Sat Jun 12 17:45:14 UTC 2021
