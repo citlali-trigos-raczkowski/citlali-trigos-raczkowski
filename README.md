@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Mon Jun 14 01:47:42 UTC 2021
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Mon Jun 14 02:34:22 UTC 2021
