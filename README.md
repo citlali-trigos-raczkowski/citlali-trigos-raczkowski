@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sat Jun 19 16:34:58 UTC 2021
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sat Jun 19 17:12:56 UTC 2021
