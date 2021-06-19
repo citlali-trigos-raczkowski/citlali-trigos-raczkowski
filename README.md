@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Sat Jun 19 10:51:41 UTC 2021
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Jun 19 11:08:58 UTC 2021
