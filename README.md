@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Sun Jun 20 11:47:06 UTC 2021
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Sun Jun 20 12:15:01 UTC 2021
