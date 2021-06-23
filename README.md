@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Jun 23 02:52:19 UTC 2021
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Wed Jun 23 03:10:22 UTC 2021
