@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Thu Jun 24 15:54:51 UTC 2021
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Thu Jun 24 16:17:35 UTC 2021
