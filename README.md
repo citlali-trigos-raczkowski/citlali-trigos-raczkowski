@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Fri Jun 25 14:49:02 UTC 2021
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Fri Jun 25 15:12:03 UTC 2021
