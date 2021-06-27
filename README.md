@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 27 23:28:38 UTC 2021
+" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Sun Jun 27 23:40:05 UTC 2021
