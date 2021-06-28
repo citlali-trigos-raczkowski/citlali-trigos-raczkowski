@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Mon Jun 28 14:25:21 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Mon Jun 28 14:34:59 UTC 2021
