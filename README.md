@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Tue Jun 29 00:34:23 UTC 2021
+" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Tue Jun 29 01:41:30 UTC 2021
