@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Wed Jun 30 06:58:03 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Wed Jun 30 07:15:19 UTC 2021
