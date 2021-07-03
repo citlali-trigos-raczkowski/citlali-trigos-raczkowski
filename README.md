@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Sat Jul 3 01:38:26 UTC 2021
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Sat Jul 3 02:10:08 UTC 2021
