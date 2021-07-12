@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 12 09:31:32 UTC 2021
+" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Mon Jul 12 09:48:44 UTC 2021
