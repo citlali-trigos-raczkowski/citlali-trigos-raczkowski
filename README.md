@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Tue Jul 13 15:54:31 UTC 2021
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Jul 13 16:16:11 UTC 2021
