@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Tue Jul 13 22:28:42 UTC 2021
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Jul 13 22:40:51 UTC 2021
