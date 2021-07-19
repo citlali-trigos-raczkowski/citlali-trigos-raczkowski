@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 19 02:45:19 UTC 2021
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Mon Jul 19 03:11:54 UTC 2021
