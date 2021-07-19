@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Mon Jul 19 16:15:58 UTC 2021
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Jul 19 17:00:52 UTC 2021
