@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Tue Jul 20 19:33:58 UTC 2021
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Tue Jul 20 19:49:02 UTC 2021
