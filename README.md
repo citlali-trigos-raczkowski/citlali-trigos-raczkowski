@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Fri Jul 23 07:13:00 UTC 2021
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Fri Jul 23 07:26:50 UTC 2021
