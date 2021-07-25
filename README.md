@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sun Jul 25 02:50:49 UTC 2021
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Sun Jul 25 03:11:36 UTC 2021
