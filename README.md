@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 26 21:09:46 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Mon Jul 26 21:29:12 UTC 2021
