@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sat Jul 31 02:45:47 UTC 2021
+" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Sat Jul 31 03:11:38 UTC 2021
