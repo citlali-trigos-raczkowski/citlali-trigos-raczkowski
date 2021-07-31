@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Sat Jul 31 10:48:51 UTC 2021
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sat Jul 31 11:08:10 UTC 2021
