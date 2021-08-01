@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sun Aug 1 03:49:39 UTC 2021
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Aug 1 04:13:25 UTC 2021
