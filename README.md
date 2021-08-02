@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Mon Aug 2 18:37:05 UTC 2021
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon Aug 2 18:53:58 UTC 2021
