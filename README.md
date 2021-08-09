@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Mon Aug 9 13:38:22 UTC 2021
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Mon Aug 9 13:49:12 UTC 2021
