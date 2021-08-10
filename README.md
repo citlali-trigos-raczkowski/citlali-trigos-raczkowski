@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Mon Aug 9 23:49:03 UTC 2021
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Tue Aug 10 00:38:09 UTC 2021
