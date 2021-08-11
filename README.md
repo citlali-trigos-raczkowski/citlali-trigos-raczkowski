@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Wed Aug 11 01:34:28 UTC 2021
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Wed Aug 11 02:12:52 UTC 2021
