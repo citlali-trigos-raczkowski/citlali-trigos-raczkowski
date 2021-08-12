@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Thu Aug 12 18:12:42 UTC 2021
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Thu Aug 12 18:38:42 UTC 2021
