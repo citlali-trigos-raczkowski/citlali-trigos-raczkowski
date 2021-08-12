@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Thu Aug 12 05:48:47 UTC 2021
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Thu Aug 12 06:13:21 UTC 2021
