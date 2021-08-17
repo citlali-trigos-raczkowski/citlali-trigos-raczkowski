@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Tue Aug 17 02:50:01 UTC 2021
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Tue Aug 17 03:11:36 UTC 2021
