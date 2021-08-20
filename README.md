@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Fri Aug 20 09:51:26 UTC 2021
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Fri Aug 20 10:11:24 UTC 2021
