@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sun Aug 22 03:11:17 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Aug 22 03:30:33 UTC 2021
