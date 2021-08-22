@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sun Aug 22 15:51:27 UTC 2021
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Sun Aug 22 16:15:08 UTC 2021
