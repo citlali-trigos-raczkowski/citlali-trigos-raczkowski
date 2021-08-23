@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Aug 23 04:42:05 UTC 2021
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Mon Aug 23 04:57:03 UTC 2021
