@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Wed Aug 25 17:49:20 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Aug 25 18:12:08 UTC 2021
