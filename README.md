@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Wed Aug 25 19:48:58 UTC 2021
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Aug 25 20:10:57 UTC 2021
