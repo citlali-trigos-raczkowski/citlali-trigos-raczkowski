@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Wed Aug 25 23:48:47 UTC 2021
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Thu Aug 26 00:33:19 UTC 2021
