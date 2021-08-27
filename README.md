@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Fri Aug 27 02:44:48 UTC 2021
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Fri Aug 27 02:53:18 UTC 2021
