@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Sat Aug 28 20:48:57 UTC 2021
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sat Aug 28 21:09:07 UTC 2021
