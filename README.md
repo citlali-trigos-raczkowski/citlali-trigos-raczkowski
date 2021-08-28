@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Aug 28 11:08:31 UTC 2021
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Sat Aug 28 11:23:28 UTC 2021
