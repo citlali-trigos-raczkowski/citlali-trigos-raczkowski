@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sat Aug 28 23:49:06 UTC 2021
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Sun Aug 29 00:37:00 UTC 2021
