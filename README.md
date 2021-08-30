@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Mon Aug 30 07:10:50 UTC 2021
+" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Mon Aug 30 07:26:21 UTC 2021
