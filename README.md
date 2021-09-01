@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Wed Sep 1 19:07:51 UTC 2021
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Wed Sep 1 19:19:27 UTC 2021
