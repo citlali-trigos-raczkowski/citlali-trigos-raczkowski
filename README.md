@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Sep 1 04:42:22 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Wed Sep 1 04:57:26 UTC 2021
