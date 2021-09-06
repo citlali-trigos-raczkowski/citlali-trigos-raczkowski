@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Sep 6 07:26:47 UTC 2021
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Mon Sep 6 07:35:34 UTC 2021
