@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Sep 11 09:48:43 UTC 2021
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Sep 11 10:11:14 UTC 2021
