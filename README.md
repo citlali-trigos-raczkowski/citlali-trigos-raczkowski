@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon Sep 13 14:48:47 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Mon Sep 13 15:11:21 UTC 2021
