@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Sun Sep 12 23:48:56 UTC 2021
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Mon Sep 13 00:39:20 UTC 2021
