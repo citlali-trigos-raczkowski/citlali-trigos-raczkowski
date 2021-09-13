@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Mon Sep 13 16:14:47 UTC 2021
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Sep 13 16:50:23 UTC 2021
