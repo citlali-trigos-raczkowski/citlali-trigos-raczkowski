@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Wed Sep 15 11:08:56 UTC 2021
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Wed Sep 15 11:24:06 UTC 2021
