@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 16:15:49 UTC 2021
+" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 16:57:01 UTC 2021
