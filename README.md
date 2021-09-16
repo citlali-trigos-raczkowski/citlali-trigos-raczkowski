@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 20:49:52 UTC 2021
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 21:09:24 UTC 2021
