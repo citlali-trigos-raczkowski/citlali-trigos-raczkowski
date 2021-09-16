@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 17:48:48 UTC 2021
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Thu Sep 16 18:12:20 UTC 2021
