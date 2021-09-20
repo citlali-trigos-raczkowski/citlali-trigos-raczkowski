@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Sep 20 05:11:26 UTC 2021
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Mon Sep 20 05:25:42 UTC 2021
