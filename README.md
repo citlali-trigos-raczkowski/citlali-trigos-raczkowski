@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Mon Sep 20 11:24:06 UTC 2021
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Mon Sep 20 11:34:18 UTC 2021
