@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 02:16:59 UTC 2021
+" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 02:45:02 UTC 2021
