@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 10:48:47 UTC 2021
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 11:08:55 UTC 2021
