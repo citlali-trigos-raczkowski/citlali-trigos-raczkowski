@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 03:42:40 UTC 2021
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Tue Sep 21 03:51:31 UTC 2021
