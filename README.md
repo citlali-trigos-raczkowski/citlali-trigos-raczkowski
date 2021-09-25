@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Sat Sep 25 20:39:26 UTC 2021
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sat Sep 25 20:48:51 UTC 2021
