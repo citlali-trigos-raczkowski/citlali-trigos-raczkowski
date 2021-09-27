@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Mon Sep 27 18:12:27 UTC 2021
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Sep 27 18:34:09 UTC 2021
