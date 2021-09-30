@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Thu Sep 30 02:47:31 UTC 2021
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Thu Sep 30 03:11:27 UTC 2021
