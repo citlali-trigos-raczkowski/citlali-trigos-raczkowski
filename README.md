@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri Oct 1 04:55:42 UTC 2021
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Fri Oct 1 05:10:43 UTC 2021
