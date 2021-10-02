@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 2 03:29:07 UTC 2021
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sat Oct 2 03:41:56 UTC 2021
