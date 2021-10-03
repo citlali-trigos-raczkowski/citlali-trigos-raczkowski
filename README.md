@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Sun Oct 3 13:31:02 UTC 2021
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Sun Oct 3 13:48:46 UTC 2021
