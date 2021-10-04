@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Mon Oct 4 05:10:44 UTC 2021
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Oct 4 05:25:26 UTC 2021
