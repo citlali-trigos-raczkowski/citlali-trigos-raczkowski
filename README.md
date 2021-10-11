@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Oct 11 10:48:49 UTC 2021
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Mon Oct 11 11:09:05 UTC 2021
