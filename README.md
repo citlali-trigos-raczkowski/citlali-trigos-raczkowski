@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 16 08:48:52 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sat Oct 16 09:10:11 UTC 2021
