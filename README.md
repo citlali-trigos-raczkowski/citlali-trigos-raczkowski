@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Wed Oct 20 15:50:56 UTC 2021
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Wed Oct 20 16:17:08 UTC 2021
