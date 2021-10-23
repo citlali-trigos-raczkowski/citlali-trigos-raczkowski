@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Sat Oct 23 00:41:50 UTC 2021
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Sat Oct 23 01:47:35 UTC 2021
