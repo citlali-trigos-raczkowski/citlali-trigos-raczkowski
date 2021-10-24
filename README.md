@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sun Oct 24 11:34:09 UTC 2021
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Sun Oct 24 11:48:44 UTC 2021
