@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Tue Oct 26 02:41:10 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Tue Oct 26 02:52:25 UTC 2021
