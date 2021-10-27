@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Wed Oct 27 05:26:56 UTC 2021
+" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Wed Oct 27 05:35:59 UTC 2021
