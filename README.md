@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Fri Oct 29 05:48:50 UTC 2021
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Fri Oct 29 06:13:38 UTC 2021
