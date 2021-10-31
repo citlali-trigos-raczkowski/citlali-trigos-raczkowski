@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Sun Oct 31 18:50:52 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Oct 31 19:08:50 UTC 2021
