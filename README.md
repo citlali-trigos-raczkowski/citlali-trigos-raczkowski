@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Nov 3 23:48:56 UTC 2021
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 4 00:38:09 UTC 2021
