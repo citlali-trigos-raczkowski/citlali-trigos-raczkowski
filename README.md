@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Nov 4 08:13:12 UTC 2021
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Thu Nov 4 08:34:08 UTC 2021
