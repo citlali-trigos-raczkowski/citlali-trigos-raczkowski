@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 4 08:49:22 UTC 2021
+" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Thu Nov 4 09:11:32 UTC 2021
