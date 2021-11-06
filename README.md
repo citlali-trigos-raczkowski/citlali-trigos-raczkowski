@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Sat Nov 6 22:40:30 UTC 2021
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat Nov 6 22:49:05 UTC 2021
