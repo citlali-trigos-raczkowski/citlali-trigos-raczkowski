@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 5 23:49:42 UTC 2021
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sat Nov 6 00:36:32 UTC 2021
