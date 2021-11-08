@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 8 22:10:57 UTC 2021
+" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 8 22:29:36 UTC 2021
