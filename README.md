@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Tue Nov 9 01:42:00 UTC 2021
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Tue Nov 9 02:17:03 UTC 2021
