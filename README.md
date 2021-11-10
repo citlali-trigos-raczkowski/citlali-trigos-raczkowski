@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 10 09:42:59 UTC 2021
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Wed Nov 10 09:51:34 UTC 2021
