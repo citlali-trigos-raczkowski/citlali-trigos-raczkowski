@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Fri Nov 12 23:27:40 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Fri Nov 12 23:38:14 UTC 2021
