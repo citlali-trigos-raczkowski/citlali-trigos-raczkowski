@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Sat Nov 13 03:30:06 UTC 2021
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Nov 13 03:43:47 UTC 2021
