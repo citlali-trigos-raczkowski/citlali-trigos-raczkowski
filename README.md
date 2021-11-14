@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sun Nov 14 04:14:21 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Nov 14 04:41:45 UTC 2021
