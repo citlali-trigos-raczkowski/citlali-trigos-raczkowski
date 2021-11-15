@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon Nov 15 17:50:48 UTC 2021
+" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Mon Nov 15 18:10:59 UTC 2021
