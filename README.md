@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Mon Nov 15 19:49:06 UTC 2021
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 15 20:11:51 UTC 2021
