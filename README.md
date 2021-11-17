@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 17 14:48:47 UTC 2021
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Wed Nov 17 15:11:50 UTC 2021
