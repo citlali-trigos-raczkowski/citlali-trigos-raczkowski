@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 18 19:22:09 UTC 2021
+" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Thu Nov 18 19:34:28 UTC 2021
