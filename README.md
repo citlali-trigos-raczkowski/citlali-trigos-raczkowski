@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Mon Nov 22 11:25:19 UTC 2021
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 22 11:34:06 UTC 2021
