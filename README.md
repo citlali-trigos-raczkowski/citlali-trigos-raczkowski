@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 20:48:52 UTC 2021
+" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 21:09:47 UTC 2021
