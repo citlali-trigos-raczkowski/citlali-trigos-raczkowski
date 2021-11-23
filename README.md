@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 09:29:55 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 09:43:14 UTC 2021
