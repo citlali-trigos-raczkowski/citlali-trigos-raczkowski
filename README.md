@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 09:11:27 UTC 2021
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 23 09:29:55 UTC 2021
