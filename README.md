@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 04:42:44 UTC 2021
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 04:57:15 UTC 2021
