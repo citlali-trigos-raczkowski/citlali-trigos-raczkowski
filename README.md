@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 18:52:02 UTC 2021
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 19:09:23 UTC 2021
