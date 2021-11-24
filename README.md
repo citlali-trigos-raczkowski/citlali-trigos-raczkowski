@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 20:12:01 UTC 2021
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Wed Nov 24 20:30:22 UTC 2021
