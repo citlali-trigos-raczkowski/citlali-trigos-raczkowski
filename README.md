@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Thu Nov 25 05:48:52 UTC 2021
+" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 25 06:13:56 UTC 2021
