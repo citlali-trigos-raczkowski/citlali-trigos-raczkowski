@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Fri Nov 26 13:18:17 UTC 2021
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Fri Nov 26 13:38:08 UTC 2021
