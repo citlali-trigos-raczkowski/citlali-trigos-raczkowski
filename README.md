@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sat Nov 27 15:11:21 UTC 2021
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Nov 27 15:31:21 UTC 2021
