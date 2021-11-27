@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sat Nov 27 10:49:01 UTC 2021
+" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Sat Nov 27 11:09:01 UTC 2021
