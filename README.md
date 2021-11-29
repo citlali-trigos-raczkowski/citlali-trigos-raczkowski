@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 18:13:18 UTC 2021
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 18:35:44 UTC 2021
