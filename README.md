@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 21:48:52 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 22:11:14 UTC 2021
