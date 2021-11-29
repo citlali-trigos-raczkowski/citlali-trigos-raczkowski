@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 18:52:26 UTC 2021
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Mon Nov 29 19:09:29 UTC 2021
