@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Tue Nov 30 20:30:58 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Tue Nov 30 20:48:50 UTC 2021
