@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Wed Dec 1 22:51:07 UTC 2021
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Wed Dec 1 23:11:31 UTC 2021
