@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Fri Dec 3 17:52:29 UTC 2021
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Fri Dec 3 18:13:33 UTC 2021
