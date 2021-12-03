@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri Dec 3 07:11:34 UTC 2021
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri Dec 3 07:27:58 UTC 2021
