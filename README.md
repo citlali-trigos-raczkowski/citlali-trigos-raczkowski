@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Dec 4 17:51:48 UTC 2021
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sat Dec 4 18:13:23 UTC 2021
