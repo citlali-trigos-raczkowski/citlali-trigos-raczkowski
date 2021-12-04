@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Dec 4 15:11:43 UTC 2021
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Dec 4 15:32:39 UTC 2021
