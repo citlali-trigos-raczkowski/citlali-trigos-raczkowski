@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Sun Dec 5 20:50:38 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Dec 5 21:09:43 UTC 2021
