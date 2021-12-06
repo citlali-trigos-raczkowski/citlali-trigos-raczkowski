@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Sun Dec 5 23:49:07 UTC 2021
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Dec 6 00:41:18 UTC 2021
