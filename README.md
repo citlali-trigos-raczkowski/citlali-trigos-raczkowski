@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Wed Dec 8 11:48:45 UTC 2021
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Wed Dec 8 12:18:45 UTC 2021
