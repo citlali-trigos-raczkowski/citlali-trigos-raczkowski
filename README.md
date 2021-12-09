@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Thu Dec 9 08:50:56 UTC 2021
+" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Thu Dec 9 09:11:59 UTC 2021
