@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Thu Dec 9 07:48:52 UTC 2021
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Thu Dec 9 08:14:05 UTC 2021
