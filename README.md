@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sat Dec 11 15:31:33 UTC 2021
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sat Dec 11 15:50:55 UTC 2021
