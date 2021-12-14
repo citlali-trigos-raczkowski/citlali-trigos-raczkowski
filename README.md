@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Tue Dec 14 18:13:36 UTC 2021
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Tue Dec 14 18:36:23 UTC 2021
