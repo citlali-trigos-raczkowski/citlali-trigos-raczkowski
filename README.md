@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Wed Dec 15 01:45:03 UTC 2021
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Wed Dec 15 02:20:56 UTC 2021
