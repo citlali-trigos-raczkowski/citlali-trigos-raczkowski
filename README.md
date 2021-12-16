@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Thu Dec 16 06:54:09 UTC 2021
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Thu Dec 16 07:11:45 UTC 2021
