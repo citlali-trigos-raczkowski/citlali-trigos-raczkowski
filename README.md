@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Fri Dec 17 07:11:49 UTC 2021
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri Dec 17 07:28:10 UTC 2021
