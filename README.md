@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Fri Dec 17 20:25:28 UTC 2021
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Fri Dec 17 20:34:21 UTC 2021
