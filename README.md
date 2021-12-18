@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Sat Dec 18 09:11:17 UTC 2021
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sat Dec 18 09:29:36 UTC 2021
