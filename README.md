@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Sun Dec 19 20:30:56 UTC 2021
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Sun Dec 19 20:48:44 UTC 2021
