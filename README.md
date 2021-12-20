@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Dec 20 22:30:58 UTC 2021
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Mon Dec 20 22:48:45 UTC 2021
