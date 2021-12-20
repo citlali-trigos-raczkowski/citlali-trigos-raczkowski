@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Mon Dec 20 21:26:58 UTC 2021
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Mon Dec 20 21:38:19 UTC 2021
