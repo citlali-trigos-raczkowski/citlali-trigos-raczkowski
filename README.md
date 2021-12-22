@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Wed Dec 22 07:53:24 UTC 2021
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Wed Dec 22 08:14:40 UTC 2021
