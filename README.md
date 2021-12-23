@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Thu Dec 23 02:58:32 UTC 2021
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Dec 23 03:20:30 UTC 2021
