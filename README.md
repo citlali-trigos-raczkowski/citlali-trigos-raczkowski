@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Mon Dec 27 14:48:45 UTC 2021
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Mon Dec 27 15:12:05 UTC 2021
