@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Tue Dec 28 21:48:53 UTC 2021
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Tue Dec 28 22:11:36 UTC 2021
