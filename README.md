@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Thu Dec 30 15:12:12 UTC 2021
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Thu Dec 30 15:33:21 UTC 2021
