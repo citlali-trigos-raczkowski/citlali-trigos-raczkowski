@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Fri Dec 31 18:53:05 UTC 2021
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Fri Dec 31 19:09:41 UTC 2021
