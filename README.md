@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Sat Jan 1 03:32:09 UTC 2022
+" I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 1 03:50:08 UTC 2022
