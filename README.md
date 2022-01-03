@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Mon Jan 3 17:01:57 UTC 2022
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon Jan 3 17:38:06 UTC 2022
