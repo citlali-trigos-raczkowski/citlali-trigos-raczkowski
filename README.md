@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 11:36:13 UTC 2022
+" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 11:48:51 UTC 2022
