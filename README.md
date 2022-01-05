@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 08:52:34 UTC 2022
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 09:12:27 UTC 2022
