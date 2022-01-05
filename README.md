@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 06:15:05 UTC 2022
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Wed Jan 5 06:40:17 UTC 2022
