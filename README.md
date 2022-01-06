@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Jan 6 20:31:14 UTC 2022
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Thu Jan 6 20:48:52 UTC 2022
