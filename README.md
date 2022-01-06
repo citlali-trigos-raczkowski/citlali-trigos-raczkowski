@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Thu Jan 6 19:10:09 UTC 2022
+" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Thu Jan 6 19:23:34 UTC 2022
