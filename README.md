@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Sat Jan 8 18:36:38 UTC 2022
+" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 8 18:53:21 UTC 2022
