@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Jan 9 03:50:10 UTC 2022
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sun Jan 9 04:15:29 UTC 2022
