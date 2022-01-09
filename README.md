@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself " - Kanye West <br/> <br/>Last Updated:  Sun Jan 9 04:50:27 UTC 2022
+" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Sun Jan 9 05:12:30 UTC 2022
