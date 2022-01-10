@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 10 08:55:17 UTC 2022
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Mon Jan 10 09:12:51 UTC 2022
