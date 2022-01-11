@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Tue Jan 11 14:11:27 UTC 2022
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Tue Jan 11 14:28:18 UTC 2022
