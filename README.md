@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Jan 12 13:28:47 UTC 2022
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Wed Jan 12 13:44:02 UTC 2022
