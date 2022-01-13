@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Jan 13 15:12:36 UTC 2022
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Thu Jan 13 15:34:21 UTC 2022
