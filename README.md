@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Jan 16 05:49:04 UTC 2022
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sun Jan 16 06:14:52 UTC 2022
