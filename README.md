@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sun Jan 16 23:30:05 UTC 2022
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sun Jan 16 23:42:48 UTC 2022
