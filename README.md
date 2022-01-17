@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 14:28:34 UTC 2022
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 14:40:09 UTC 2022
