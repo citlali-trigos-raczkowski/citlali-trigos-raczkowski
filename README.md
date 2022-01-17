@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 15:34:22 UTC 2022
+" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 15:53:21 UTC 2022
