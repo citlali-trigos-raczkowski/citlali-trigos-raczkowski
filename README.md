@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 22:11:53 UTC 2022
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Mon Jan 17 22:31:26 UTC 2022
