@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Wed Jan 19 02:41:09 UTC 2022
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Wed Jan 19 02:51:34 UTC 2022
