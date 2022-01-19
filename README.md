@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Wed Jan 19 17:38:54 UTC 2022
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Wed Jan 19 17:48:50 UTC 2022
