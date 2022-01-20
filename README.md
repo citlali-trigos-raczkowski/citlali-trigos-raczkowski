@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Thu Jan 20 19:49:04 UTC 2022
+" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Thu Jan 20 20:12:08 UTC 2022
