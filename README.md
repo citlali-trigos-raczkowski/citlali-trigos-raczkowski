@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Fri Jan 21 00:39:14 UTC 2022
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Fri Jan 21 01:42:25 UTC 2022
