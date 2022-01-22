@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sat Jan 22 08:48:45 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Jan 22 09:10:31 UTC 2022
