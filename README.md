@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Sun Jan 23 09:36:25 UTC 2022
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sun Jan 23 09:48:56 UTC 2022
