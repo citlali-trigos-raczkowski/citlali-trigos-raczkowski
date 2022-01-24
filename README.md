@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Mon Jan 24 21:23:48 UTC 2022
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 24 21:33:53 UTC 2022
