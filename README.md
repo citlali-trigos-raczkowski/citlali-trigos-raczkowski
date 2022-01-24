@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Jan 24 14:25:20 UTC 2022
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Mon Jan 24 14:34:21 UTC 2022
