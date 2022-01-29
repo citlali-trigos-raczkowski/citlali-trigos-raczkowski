@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Jan 29 14:24:03 UTC 2022
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sat Jan 29 14:34:49 UTC 2022
