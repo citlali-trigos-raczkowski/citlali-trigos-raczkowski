@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sat Jan 29 23:48:56 UTC 2022
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Sun Jan 30 00:41:59 UTC 2022
