@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Tue Feb 1 04:38:58 UTC 2022
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Tue Feb 1 04:53:07 UTC 2022
