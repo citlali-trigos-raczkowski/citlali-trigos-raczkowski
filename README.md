@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Feb 3 23:48:41 UTC 2022
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Fri Feb 4 00:41:14 UTC 2022
