@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Fri Feb 4 03:09:55 UTC 2022
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 4 03:24:14 UTC 2022
