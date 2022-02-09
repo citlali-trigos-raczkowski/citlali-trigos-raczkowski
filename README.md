@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Wed Feb 9 22:48:43 UTC 2022
+" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Wed Feb 9 23:11:03 UTC 2022
