@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Wed Feb 9 23:48:46 UTC 2022
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Thu Feb 10 00:43:42 UTC 2022
