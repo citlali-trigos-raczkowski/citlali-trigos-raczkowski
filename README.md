@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Fri Feb 11 07:10:22 UTC 2022
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 11 07:25:00 UTC 2022
