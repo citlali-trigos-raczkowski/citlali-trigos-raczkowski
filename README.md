@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sat Feb 12 10:10:47 UTC 2022
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat Feb 12 10:28:20 UTC 2022
