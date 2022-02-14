@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Mon Feb 14 18:33:07 UTC 2022
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 14 18:49:20 UTC 2022
