@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Thu Feb 17 14:48:53 UTC 2022
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Thu Feb 17 15:12:08 UTC 2022
