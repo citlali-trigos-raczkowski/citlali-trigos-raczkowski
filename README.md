@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sun Feb 20 14:34:12 UTC 2022
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Sun Feb 20 14:48:49 UTC 2022
