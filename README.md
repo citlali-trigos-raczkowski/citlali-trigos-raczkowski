@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 21 01:46:02 UTC 2022
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Mon Feb 21 02:25:19 UTC 2022
