@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Wed Feb 23 00:51:50 UTC 2022
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Wed Feb 23 02:04:47 UTC 2022
