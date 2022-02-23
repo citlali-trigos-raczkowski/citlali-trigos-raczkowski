@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Wed Feb 23 21:27:10 UTC 2022
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Wed Feb 23 21:37:20 UTC 2022
