@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sat Feb 26 16:15:23 UTC 2022
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Sat Feb 26 16:49:52 UTC 2022
