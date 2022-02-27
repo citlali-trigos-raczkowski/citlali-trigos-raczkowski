@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sun Feb 27 13:14:12 UTC 2022
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sun Feb 27 13:29:46 UTC 2022
