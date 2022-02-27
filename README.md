@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Sun Feb 27 19:21:28 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sun Feb 27 19:34:12 UTC 2022
