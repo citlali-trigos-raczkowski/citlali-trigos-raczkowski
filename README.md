@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 28 08:48:45 UTC 2022
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 28 09:12:21 UTC 2022
