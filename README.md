@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Tue Mar 1 23:12:09 UTC 2022
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 1 23:28:52 UTC 2022
