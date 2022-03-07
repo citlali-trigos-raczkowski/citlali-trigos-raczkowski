@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Mon Mar 7 11:25:10 UTC 2022
+" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Mon Mar 7 11:34:15 UTC 2022
