@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Mon Mar 7 03:12:27 UTC 2022
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Mon Mar 7 03:30:35 UTC 2022
