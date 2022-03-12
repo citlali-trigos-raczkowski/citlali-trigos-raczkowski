@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Sat Mar 12 19:34:36 UTC 2022
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sat Mar 12 19:48:45 UTC 2022
