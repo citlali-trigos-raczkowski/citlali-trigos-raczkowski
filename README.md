@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Tue Mar 15 09:29:51 UTC 2022
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Tue Mar 15 09:41:52 UTC 2022
