@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself " - Kanye West <br/> <br/>Last Updated:  Wed Mar 16 11:49:00 UTC 2022
+" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 16 12:20:21 UTC 2022
