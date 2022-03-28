@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Mon Mar 28 06:54:43 UTC 2022
+" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Mon Mar 28 07:12:28 UTC 2022
