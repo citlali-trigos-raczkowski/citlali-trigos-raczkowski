@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 2 14:11:23 UTC 2022
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Apr 2 14:26:52 UTC 2022
