@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Mon Apr 4 00:56:59 UTC 2022
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Mon Apr 4 02:44:08 UTC 2022
