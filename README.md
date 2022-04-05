@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Tue Apr 5 13:52:39 UTC 2022
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Tue Apr 5 14:12:16 UTC 2022
