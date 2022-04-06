@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Wed Apr 6 07:12:31 UTC 2022
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Wed Apr 6 07:28:47 UTC 2022
