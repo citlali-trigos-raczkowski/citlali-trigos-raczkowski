@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Wed Apr 6 08:41:15 UTC 2022
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Wed Apr 6 08:50:37 UTC 2022
