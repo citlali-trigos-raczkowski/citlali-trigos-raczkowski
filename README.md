@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Apr 7 20:31:47 UTC 2022
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Thu Apr 7 20:48:45 UTC 2022
