@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri Apr 8 19:49:00 UTC 2022
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 8 20:13:12 UTC 2022
