@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Fri Apr 8 07:49:10 UTC 2022
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 8 08:15:16 UTC 2022
