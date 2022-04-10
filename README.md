@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Sun Apr 10 13:48:41 UTC 2022
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Apr 10 14:10:51 UTC 2022
