@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Thu Apr 14 05:28:13 UTC 2022
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Thu Apr 14 05:38:41 UTC 2022
