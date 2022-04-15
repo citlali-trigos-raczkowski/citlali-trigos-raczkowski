@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Apr 15 14:48:57 UTC 2022
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Fri Apr 15 15:13:12 UTC 2022
