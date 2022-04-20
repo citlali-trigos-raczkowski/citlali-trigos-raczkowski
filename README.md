@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Wed Apr 20 14:40:00 UTC 2022
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Wed Apr 20 14:48:53 UTC 2022
