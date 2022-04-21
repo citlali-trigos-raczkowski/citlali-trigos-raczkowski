@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Thu Apr 21 16:18:49 UTC 2022
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Thu Apr 21 17:00:34 UTC 2022
