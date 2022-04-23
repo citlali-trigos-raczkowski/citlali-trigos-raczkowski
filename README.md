@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sat Apr 23 08:50:38 UTC 2022
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sat Apr 23 09:12:05 UTC 2022
