@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat Apr 23 10:34:06 UTC 2022
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Sat Apr 23 10:49:16 UTC 2022
