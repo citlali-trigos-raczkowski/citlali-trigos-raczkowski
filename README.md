@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Mon Apr 25 16:17:43 UTC 2022
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Mon Apr 25 16:57:01 UTC 2022
