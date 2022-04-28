@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 28 17:41:10 UTC 2022
+" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Thu Apr 28 17:49:47 UTC 2022
