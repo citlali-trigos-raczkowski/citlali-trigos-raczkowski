@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Fri Apr 29 10:49:39 UTC 2022
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Fri Apr 29 11:11:19 UTC 2022
