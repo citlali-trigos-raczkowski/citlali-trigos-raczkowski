@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sun May 1 06:45:24 UTC 2022
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sun May 1 07:12:36 UTC 2022
