@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Tue May 3 16:19:43 UTC 2022
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Tue May 3 17:02:30 UTC 2022
