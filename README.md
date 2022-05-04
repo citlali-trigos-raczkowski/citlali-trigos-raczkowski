@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Tue May 3 23:50:58 UTC 2022
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Wed May 4 01:05:16 UTC 2022
