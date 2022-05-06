@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Fri May 6 09:49:35 UTC 2022
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri May 6 10:14:36 UTC 2022
