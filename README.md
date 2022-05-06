@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Fri May 6 16:18:55 UTC 2022
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri May 6 16:58:57 UTC 2022
