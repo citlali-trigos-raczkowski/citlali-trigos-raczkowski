@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sun May 8 02:58:42 UTC 2022
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sun May 8 03:42:09 UTC 2022
