@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Mon May 9 19:48:50 UTC 2022
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Mon May 9 20:13:56 UTC 2022
