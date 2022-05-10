@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Tue May 10 21:51:10 UTC 2022
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Tue May 10 22:12:54 UTC 2022
