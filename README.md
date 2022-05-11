@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Wed May 11 03:59:42 UTC 2022
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Wed May 11 04:46:12 UTC 2022
