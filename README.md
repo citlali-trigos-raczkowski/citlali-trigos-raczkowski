@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Sat May 14 23:13:25 UTC 2022
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sat May 14 23:31:57 UTC 2022
