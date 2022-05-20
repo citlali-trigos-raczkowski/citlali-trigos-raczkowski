@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Fri May 20 07:48:56 UTC 2022
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Fri May 20 08:16:57 UTC 2022
