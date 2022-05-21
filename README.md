@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sat May 21 14:28:10 UTC 2022
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Sat May 21 14:39:35 UTC 2022
