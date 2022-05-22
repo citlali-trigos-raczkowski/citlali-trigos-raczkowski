@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Sun May 22 09:30:50 UTC 2022
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sun May 22 09:49:32 UTC 2022
