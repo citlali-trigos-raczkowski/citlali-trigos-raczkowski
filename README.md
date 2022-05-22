@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sun May 22 18:38:54 UTC 2022
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sun May 22 18:53:32 UTC 2022
