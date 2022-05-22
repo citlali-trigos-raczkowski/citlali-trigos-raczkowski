@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Sun May 22 11:11:02 UTC 2022
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Sun May 22 11:27:07 UTC 2022
