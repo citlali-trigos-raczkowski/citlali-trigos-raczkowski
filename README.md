@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sun May 22 04:29:33 UTC 2022
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Sun May 22 04:52:13 UTC 2022
