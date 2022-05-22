@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sun May 22 07:29:50 UTC 2022
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Sun May 22 07:40:55 UTC 2022
