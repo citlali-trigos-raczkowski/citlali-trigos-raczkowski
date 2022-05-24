@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Tue May 24 19:10:43 UTC 2022
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Tue May 24 19:25:28 UTC 2022
