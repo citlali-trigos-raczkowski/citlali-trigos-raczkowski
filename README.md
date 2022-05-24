@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Tue May 24 07:48:44 UTC 2022
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Tue May 24 08:17:34 UTC 2022
