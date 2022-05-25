@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Wed May 25 05:40:40 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Wed May 25 05:49:33 UTC 2022
