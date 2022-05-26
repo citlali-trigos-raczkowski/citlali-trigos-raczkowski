@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Thu May 26 11:48:49 UTC 2022
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Thu May 26 12:26:32 UTC 2022
