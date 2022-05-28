@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat May 28 21:51:36 UTC 2022
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat May 28 22:12:56 UTC 2022
