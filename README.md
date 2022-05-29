@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sun May 29 13:50:50 UTC 2022
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sun May 29 14:12:20 UTC 2022
