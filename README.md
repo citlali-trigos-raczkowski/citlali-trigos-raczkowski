@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun May 29 23:49:10 UTC 2022
+" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Mon May 30 01:11:46 UTC 2022
