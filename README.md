@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Thu Jun 2 19:10:50 UTC 2022
+" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 2 19:24:10 UTC 2022
