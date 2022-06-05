@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sun Jun 5 19:48:59 UTC 2022
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Jun 5 20:12:16 UTC 2022
