@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Tue Jun 7 05:36:48 UTC 2022
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Tue Jun 7 05:48:54 UTC 2022
