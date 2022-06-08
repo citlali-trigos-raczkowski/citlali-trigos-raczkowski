@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 8 23:29:58 UTC 2022
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 8 23:41:27 UTC 2022
