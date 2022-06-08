@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Wed Jun 8 11:25:20 UTC 2022
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 8 11:35:04 UTC 2022
