@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Thu Jun 9 09:48:48 UTC 2022
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 9 10:14:55 UTC 2022
