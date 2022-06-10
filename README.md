@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Fri Jun 10 13:44:31 UTC 2022
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 10 13:55:41 UTC 2022
