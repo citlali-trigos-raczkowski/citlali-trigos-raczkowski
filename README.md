@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Fri Jun 10 11:36:33 UTC 2022
+" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Fri Jun 10 11:48:52 UTC 2022
