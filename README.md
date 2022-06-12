@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Sun Jun 12 08:48:56 UTC 2022
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sun Jun 12 09:12:29 UTC 2022
