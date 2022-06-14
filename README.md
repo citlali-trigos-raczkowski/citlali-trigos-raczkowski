@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Tue Jun 14 17:48:57 UTC 2022
+" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Tue Jun 14 18:15:41 UTC 2022
