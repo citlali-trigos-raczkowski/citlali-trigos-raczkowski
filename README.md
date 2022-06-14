@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Jun 14 21:26:23 UTC 2022
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Tue Jun 14 21:36:23 UTC 2022
