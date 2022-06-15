@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Wed Jun 15 17:15:17 UTC 2022
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Wed Jun 15 17:39:01 UTC 2022
