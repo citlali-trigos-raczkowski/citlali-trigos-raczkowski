@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Sat Jun 25 08:15:08 UTC 2022
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Jun 25 08:38:04 UTC 2022
