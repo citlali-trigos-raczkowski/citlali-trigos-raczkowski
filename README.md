@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 26 03:17:53 UTC 2022
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sun Jun 26 04:06:43 UTC 2022
