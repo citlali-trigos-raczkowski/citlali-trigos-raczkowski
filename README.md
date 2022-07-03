@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Sun Jul 3 11:25:48 UTC 2022
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Sun Jul 3 11:34:50 UTC 2022
