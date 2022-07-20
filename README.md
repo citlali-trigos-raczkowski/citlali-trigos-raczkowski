@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Wed Jul 20 10:50:46 UTC 2022
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Wed Jul 20 11:10:55 UTC 2022
