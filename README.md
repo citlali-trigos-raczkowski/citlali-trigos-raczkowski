@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Thu Jul 21 21:13:32 UTC 2022
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Thu Jul 21 21:32:31 UTC 2022
