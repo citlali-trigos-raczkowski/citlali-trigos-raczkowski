@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Fri Jul 22 17:38:06 UTC 2022
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Jul 22 17:52:35 UTC 2022
