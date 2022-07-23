@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Jul 23 21:49:26 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Jul 23 22:12:03 UTC 2022
