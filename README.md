@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Sun Jul 31 20:13:23 UTC 2022
+" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sun Jul 31 20:31:35 UTC 2022
