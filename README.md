@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Wed Aug 10 19:25:31 UTC 2022
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Wed Aug 10 19:35:11 UTC 2022
