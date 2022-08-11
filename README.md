@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Aug 11 01:05:57 UTC 2022
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Thu Aug 11 03:03:21 UTC 2022
