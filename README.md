@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Aug 22 10:43:04 UTC 2022
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Mon Aug 22 10:53:07 UTC 2022
