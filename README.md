@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Fri Sep 2 22:49:43 UTC 2022
+" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 2 23:13:34 UTC 2022
