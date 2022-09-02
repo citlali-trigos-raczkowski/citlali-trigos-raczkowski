@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Fri Sep 2 20:50:05 UTC 2022
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 2 21:11:54 UTC 2022
