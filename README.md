@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Wed Sep 7 15:39:20 UTC 2022
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Sep 7 15:55:16 UTC 2022
