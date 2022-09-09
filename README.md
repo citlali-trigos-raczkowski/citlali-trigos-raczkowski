@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Fri Sep 9 19:49:16 UTC 2022
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Fri Sep 9 20:15:40 UTC 2022
