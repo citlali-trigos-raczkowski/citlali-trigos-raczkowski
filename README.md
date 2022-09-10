@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sat Sep 10 06:43:50 UTC 2022
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sat Sep 10 07:00:27 UTC 2022
