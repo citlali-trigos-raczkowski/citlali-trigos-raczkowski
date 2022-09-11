@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Sep 10 23:54:33 UTC 2022
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sun Sep 11 01:23:46 UTC 2022
