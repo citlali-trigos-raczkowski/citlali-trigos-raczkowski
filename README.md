@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 13 07:57:58 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Tue Sep 13 08:28:16 UTC 2022
