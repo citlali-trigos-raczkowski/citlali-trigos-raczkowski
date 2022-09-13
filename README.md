@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Mon Sep 12 23:57:07 UTC 2022
+" I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 13 02:07:12 UTC 2022
