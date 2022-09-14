@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Sep 14 15:45:40 UTC 2022
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Wed Sep 14 16:19:50 UTC 2022
