@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Sep 16 18:51:33 UTC 2022
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri Sep 16 19:14:17 UTC 2022
