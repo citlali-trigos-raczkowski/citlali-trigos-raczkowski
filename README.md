@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat Sep 24 21:50:48 UTC 2022
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sat Sep 24 22:13:34 UTC 2022
