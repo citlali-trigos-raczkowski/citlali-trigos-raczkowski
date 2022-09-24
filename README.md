@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sat Sep 24 23:14:33 UTC 2022
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 24 23:37:20 UTC 2022
