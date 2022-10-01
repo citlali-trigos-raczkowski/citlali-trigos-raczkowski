@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 1 13:58:22 UTC 2022
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 1 14:23:40 UTC 2022
