@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Tue Oct 4 07:51:39 UTC 2022
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Tue Oct 4 08:21:59 UTC 2022
