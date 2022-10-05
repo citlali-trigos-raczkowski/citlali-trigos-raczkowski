@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Wed Oct 5 01:24:38 UTC 2022
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Wed Oct 5 03:19:40 UTC 2022
