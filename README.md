@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" 2024 " - Kanye West <br/> <br/>Last Updated:  Sun Oct 9 01:22:26 UTC 2022
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sun Oct 9 03:46:30 UTC 2022
