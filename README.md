@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Fri Oct 14 09:39:24 UTC 2022
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri Oct 14 09:57:17 UTC 2022
