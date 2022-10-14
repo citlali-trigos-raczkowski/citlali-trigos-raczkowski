@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Fri Oct 14 20:49:28 UTC 2022
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Fri Oct 14 21:15:08 UTC 2022
