@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Thu Oct 20 10:51:02 UTC 2022
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Thu Oct 20 11:15:23 UTC 2022
