@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Wed Oct 26 15:54:04 UTC 2022
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Wed Oct 26 16:19:50 UTC 2022
