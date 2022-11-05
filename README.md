@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Sat Nov 5 09:13:01 UTC 2022
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat Nov 5 09:30:25 UTC 2022
