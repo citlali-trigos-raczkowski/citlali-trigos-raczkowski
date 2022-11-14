@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon Nov 14 08:18:16 UTC 2022
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Mon Nov 14 08:46:40 UTC 2022
