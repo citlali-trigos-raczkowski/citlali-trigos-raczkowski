@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 15 22:48:48 UTC 2022
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Tue Nov 15 23:12:54 UTC 2022
