@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Wed Nov 16 15:32:34 UTC 2022
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Wed Nov 16 15:49:52 UTC 2022
