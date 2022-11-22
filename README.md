@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 22 23:12:00 UTC 2022
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Tue Nov 22 23:28:27 UTC 2022
