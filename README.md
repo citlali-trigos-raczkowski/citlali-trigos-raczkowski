@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Thu Nov 24 15:50:52 UTC 2022
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Thu Nov 24 16:16:18 UTC 2022
