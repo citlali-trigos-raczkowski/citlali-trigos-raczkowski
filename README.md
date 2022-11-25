@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 25 15:49:27 UTC 2022
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 25 16:16:06 UTC 2022
