@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Dec 4 08:31:28 UTC 2022
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun Dec 4 08:48:56 UTC 2022
