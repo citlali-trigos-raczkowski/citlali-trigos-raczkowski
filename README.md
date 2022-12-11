@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sun Dec 11 15:10:43 UTC 2022
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sun Dec 11 15:26:02 UTC 2022
