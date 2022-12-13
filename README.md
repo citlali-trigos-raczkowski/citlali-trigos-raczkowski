@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Tue Dec 13 04:48:49 UTC 2022
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Tue Dec 13 05:10:51 UTC 2022
