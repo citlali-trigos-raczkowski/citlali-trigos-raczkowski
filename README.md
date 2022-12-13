@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Tue Dec 13 08:48:51 UTC 2022
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Tue Dec 13 09:12:00 UTC 2022
