@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 17 14:22:32 UTC 2022
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sat Dec 17 14:34:20 UTC 2022
