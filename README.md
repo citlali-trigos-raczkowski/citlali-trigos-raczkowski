@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sun Dec 18 09:22:47 UTC 2022
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun Dec 18 09:34:20 UTC 2022
