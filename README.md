@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Dec 19 00:54:07 UTC 2022
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Mon Dec 19 02:05:44 UTC 2022
