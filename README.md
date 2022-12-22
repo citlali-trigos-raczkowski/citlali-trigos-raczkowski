@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Thu Dec 22 14:48:51 UTC 2022
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Thu Dec 22 15:12:06 UTC 2022
