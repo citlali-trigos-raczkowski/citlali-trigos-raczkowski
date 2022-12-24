@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sat Dec 24 19:48:46 UTC 2022
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Sat Dec 24 20:10:49 UTC 2022
