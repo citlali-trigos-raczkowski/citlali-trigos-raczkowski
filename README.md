@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Mon Jan 2 18:40:28 UTC 2023
+" I'm the best " - Kanye West <br/> <br/>Last Updated:  Mon Jan 2 18:49:18 UTC 2023
