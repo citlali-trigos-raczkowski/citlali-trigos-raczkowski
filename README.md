@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 7 07:48:56 UTC 2023
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 7 08:13:27 UTC 2023
