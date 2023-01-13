@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Fri Jan 13 14:48:53 UTC 2023
+" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Fri Jan 13 15:12:29 UTC 2023
