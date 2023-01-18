@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Tue Jan 17 23:49:02 UTC 2023
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Wed Jan 18 01:01:03 UTC 2023
