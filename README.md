@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Mon Jan 23 12:55:48 UTC 2023
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Mon Jan 23 13:20:02 UTC 2023
