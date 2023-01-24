@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Jan 23 23:48:56 UTC 2023
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Tue Jan 24 01:00:37 UTC 2023
