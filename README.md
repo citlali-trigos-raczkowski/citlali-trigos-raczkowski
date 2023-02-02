@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Feb 2 19:48:47 UTC 2023
+" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 2 20:11:53 UTC 2023
