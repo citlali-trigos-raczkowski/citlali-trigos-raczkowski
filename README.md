@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 2 08:14:41 UTC 2023
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 2 08:33:10 UTC 2023
