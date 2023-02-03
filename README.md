@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 10:12:10 UTC 2023
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 10:29:23 UTC 2023
