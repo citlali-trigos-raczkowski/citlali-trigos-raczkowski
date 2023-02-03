@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 19:48:48 UTC 2023
+" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 20:11:45 UTC 2023
