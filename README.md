@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 13:48:58 UTC 2023
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Fri Feb 3 14:10:23 UTC 2023
