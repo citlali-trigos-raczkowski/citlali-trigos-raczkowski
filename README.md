@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Feb 4 10:48:44 UTC 2023
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sat Feb 4 11:09:11 UTC 2023
