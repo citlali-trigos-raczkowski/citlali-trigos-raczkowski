@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 9 20:12:22 UTC 2023
+" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Thu Feb 9 20:27:50 UTC 2023
