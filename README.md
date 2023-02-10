@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Fri Feb 10 19:48:53 UTC 2023
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Fri Feb 10 20:12:06 UTC 2023
