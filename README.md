@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Sat Feb 11 18:29:56 UTC 2023
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Feb 11 18:40:51 UTC 2023
