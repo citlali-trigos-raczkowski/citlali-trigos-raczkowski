@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sun Feb 12 22:25:47 UTC 2023
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun Feb 12 22:34:39 UTC 2023
