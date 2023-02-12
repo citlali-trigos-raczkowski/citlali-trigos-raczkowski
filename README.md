@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sun Feb 12 03:48:59 UTC 2023
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Feb 12 04:13:24 UTC 2023
