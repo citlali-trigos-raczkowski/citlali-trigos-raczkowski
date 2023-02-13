@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 13 09:48:49 UTC 2023
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Mon Feb 13 10:13:06 UTC 2023
