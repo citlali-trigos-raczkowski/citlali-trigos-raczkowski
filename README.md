@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sat Feb 18 08:13:51 UTC 2023
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Feb 18 08:31:20 UTC 2023
