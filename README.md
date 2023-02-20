@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Mon Feb 20 06:15:33 UTC 2023
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Mon Feb 20 06:39:58 UTC 2023
