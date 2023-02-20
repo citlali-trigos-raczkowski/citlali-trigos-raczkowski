@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Sun Feb 19 23:48:44 UTC 2023
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Mon Feb 20 01:02:45 UTC 2023
