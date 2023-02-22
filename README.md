@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Wed Feb 22 12:23:11 UTC 2023
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Feb 22 12:57:24 UTC 2023
