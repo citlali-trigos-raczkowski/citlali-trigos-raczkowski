@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Thu Mar 2 10:48:51 UTC 2023
+" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Thu Mar 2 11:10:19 UTC 2023
