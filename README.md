@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Sun Mar 5 19:08:46 UTC 2023
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sun Mar 5 19:19:52 UTC 2023
