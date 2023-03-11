@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sat Mar 11 06:13:41 UTC 2023
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sat Mar 11 06:30:27 UTC 2023
