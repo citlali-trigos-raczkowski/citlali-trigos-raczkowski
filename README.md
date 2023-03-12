@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 12 06:13:59 UTC 2023
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Mar 12 06:30:37 UTC 2023
