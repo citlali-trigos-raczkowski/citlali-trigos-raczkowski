@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Fri Mar 17 09:48:59 UTC 2023
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Fri Mar 17 10:12:35 UTC 2023
