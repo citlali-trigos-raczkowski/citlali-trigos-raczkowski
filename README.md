@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Sun Mar 19 09:48:52 UTC 2023
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sun Mar 19 10:11:14 UTC 2023
