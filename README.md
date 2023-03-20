@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Mon Mar 20 19:48:59 UTC 2023
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Mon Mar 20 20:11:17 UTC 2023
