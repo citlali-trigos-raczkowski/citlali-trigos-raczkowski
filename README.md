@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Thu Mar 23 03:48:49 UTC 2023
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Thu Mar 23 04:13:02 UTC 2023
