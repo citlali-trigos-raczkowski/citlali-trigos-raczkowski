@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Fri Mar 24 03:34:34 UTC 2023
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Fri Mar 24 03:48:55 UTC 2023
