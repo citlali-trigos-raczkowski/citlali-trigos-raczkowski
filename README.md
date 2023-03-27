@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Mon Mar 27 06:48:55 UTC 2023
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Mar 27 07:10:31 UTC 2023
