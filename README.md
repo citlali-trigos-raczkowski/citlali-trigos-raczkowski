@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Tue Mar 28 08:48:46 UTC 2023
+" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 28 09:11:32 UTC 2023
