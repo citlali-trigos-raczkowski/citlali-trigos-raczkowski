@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 29 10:29:27 UTC 2023
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Wed Mar 29 10:39:16 UTC 2023
