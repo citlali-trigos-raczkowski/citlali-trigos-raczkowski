@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Thu Mar 30 10:38:00 UTC 2023
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Thu Mar 30 10:48:51 UTC 2023
