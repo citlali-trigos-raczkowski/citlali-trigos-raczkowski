@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Sun Apr 2 12:47:04 UTC 2023
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sun Apr 2 13:11:17 UTC 2023
