@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 6 23:10:16 UTC 2023
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Apr 6 23:22:39 UTC 2023
