@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Thu Apr 6 17:23:02 UTC 2023
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Thu Apr 6 17:34:22 UTC 2023
