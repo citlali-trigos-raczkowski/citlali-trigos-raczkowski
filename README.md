@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 01:57:29 UTC 2023
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 02:28:14 UTC 2023
