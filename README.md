@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 20:10:31 UTC 2023
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 20:23:04 UTC 2023
