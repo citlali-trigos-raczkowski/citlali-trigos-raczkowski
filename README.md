@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 08:48:49 UTC 2023
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Fri Apr 7 09:10:07 UTC 2023
