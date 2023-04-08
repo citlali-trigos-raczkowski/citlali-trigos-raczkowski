@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Sat Apr 8 19:18:52 UTC 2023
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat Apr 8 19:33:47 UTC 2023
