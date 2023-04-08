@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Sat Apr 8 08:26:36 UTC 2023
+" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Sat Apr 8 08:35:28 UTC 2023
