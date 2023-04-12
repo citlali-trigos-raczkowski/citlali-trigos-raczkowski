@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh. " - Kanye West <br/> <br/>Last Updated:  Wed Apr 12 19:34:04 UTC 2023
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Wed Apr 12 19:48:48 UTC 2023
