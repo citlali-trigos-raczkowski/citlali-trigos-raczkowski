@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Wed Apr 12 19:48:48 UTC 2023
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Wed Apr 12 20:10:51 UTC 2023
