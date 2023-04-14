@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Apr 14 00:53:27 UTC 2023
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 14 01:59:06 UTC 2023
