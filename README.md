@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 14 21:48:52 UTC 2023
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Apr 14 22:09:32 UTC 2023
