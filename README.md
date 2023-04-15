@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Apr 15 16:49:05 UTC 2023
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 15 17:08:39 UTC 2023
