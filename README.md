@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Apr 18 00:53:27 UTC 2023
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Tue Apr 18 01:59:57 UTC 2023
