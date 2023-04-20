@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Thu Apr 20 17:48:55 UTC 2023
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Thu Apr 20 18:12:42 UTC 2023
