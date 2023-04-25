@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Tue Apr 25 11:33:58 UTC 2023
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Tue Apr 25 11:48:52 UTC 2023
