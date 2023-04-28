@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 28 21:48:56 UTC 2023
+" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Fri Apr 28 22:09:28 UTC 2023
