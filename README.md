@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Wed May 3 22:33:58 UTC 2023
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Wed May 3 23:09:54 UTC 2023
