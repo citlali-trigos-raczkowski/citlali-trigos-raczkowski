@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Sat May 6 06:48:56 UTC 2023
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat May 6 07:09:49 UTC 2023
