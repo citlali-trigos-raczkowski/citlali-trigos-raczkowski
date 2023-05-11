@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Thu May 11 04:27:28 UTC 2023
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Thu May 11 04:36:15 UTC 2023
