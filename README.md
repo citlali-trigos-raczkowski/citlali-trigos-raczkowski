@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Tue May 16 23:48:54 UTC 2023
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Wed May 17 00:57:42 UTC 2023
