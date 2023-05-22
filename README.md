@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Mon May 22 23:22:23 UTC 2023
+" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Mon May 22 23:34:04 UTC 2023
