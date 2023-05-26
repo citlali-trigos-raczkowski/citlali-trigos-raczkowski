@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Fri May 26 15:22:41 UTC 2023
+" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Fri May 26 15:34:18 UTC 2023
