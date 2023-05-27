@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat May 27 19:48:50 UTC 2023
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat May 27 20:10:08 UTC 2023
