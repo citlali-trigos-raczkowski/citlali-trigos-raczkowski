@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun May 28 23:48:47 UTC 2023
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Mon May 29 00:58:22 UTC 2023
