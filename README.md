@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" 2024 " - Kanye West <br/> <br/>Last Updated:  Tue May 30 14:24:19 UTC 2023
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Tue May 30 14:33:59 UTC 2023
