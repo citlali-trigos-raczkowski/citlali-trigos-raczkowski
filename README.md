@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 1 19:33:59 UTC 2023
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Jun 1 19:48:44 UTC 2023
