@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Mon Jun 5 10:11:22 UTC 2023
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Mon Jun 5 10:28:35 UTC 2023
