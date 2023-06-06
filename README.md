@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Tue Jun 6 06:28:28 UTC 2023
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Tue Jun 6 06:37:08 UTC 2023
