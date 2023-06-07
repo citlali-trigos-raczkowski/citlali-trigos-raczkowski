@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Wed Jun 7 10:27:41 UTC 2023
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Wed Jun 7 10:36:19 UTC 2023
