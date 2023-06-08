@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Jun 8 08:48:53 UTC 2023
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Thu Jun 8 09:10:10 UTC 2023
