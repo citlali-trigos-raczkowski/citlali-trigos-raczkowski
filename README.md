@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 9 03:29:33 UTC 2023
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Fri Jun 9 03:38:50 UTC 2023
