@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sun Jun 11 14:48:49 UTC 2023
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Sun Jun 11 15:09:23 UTC 2023
