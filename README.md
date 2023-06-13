@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Tue Jun 13 22:34:18 UTC 2023
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Jun 13 22:48:56 UTC 2023
