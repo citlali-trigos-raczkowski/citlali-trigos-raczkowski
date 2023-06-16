@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Fri Jun 16 18:49:03 UTC 2023
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Fri Jun 16 19:08:12 UTC 2023
