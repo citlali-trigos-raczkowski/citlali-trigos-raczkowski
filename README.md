@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Thu Jun 29 10:48:51 UTC 2023
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Jun 29 11:09:05 UTC 2023
