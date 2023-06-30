@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Fri Jun 30 12:22:17 UTC 2023
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Jun 30 12:55:09 UTC 2023
