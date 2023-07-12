@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Wed Jul 12 05:48:47 UTC 2023
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Wed Jul 12 06:15:15 UTC 2023
