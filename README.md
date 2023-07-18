@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Tue Jul 18 19:19:13 UTC 2023
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Tue Jul 18 19:34:07 UTC 2023
