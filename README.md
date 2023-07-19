@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 19 09:10:17 UTC 2023
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Wed Jul 19 09:22:33 UTC 2023
