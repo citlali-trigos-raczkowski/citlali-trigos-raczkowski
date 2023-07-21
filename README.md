@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Fri Jul 21 16:31:10 UTC 2023
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Fri Jul 21 16:49:11 UTC 2023
