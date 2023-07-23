@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sun Jul 23 02:47:30 UTC 2023
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sun Jul 23 03:10:42 UTC 2023
