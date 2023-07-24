@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Mon Jul 24 15:49:00 UTC 2023
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 24 16:13:54 UTC 2023
