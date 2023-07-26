@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 26 20:21:33 UTC 2023
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Wed Jul 26 20:34:07 UTC 2023
