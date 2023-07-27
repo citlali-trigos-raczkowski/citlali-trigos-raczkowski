@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 27 23:09:57 UTC 2023
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Thu Jul 27 23:19:49 UTC 2023
