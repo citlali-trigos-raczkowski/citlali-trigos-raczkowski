@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Thu Jul 27 09:10:23 UTC 2023
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 27 09:21:35 UTC 2023
