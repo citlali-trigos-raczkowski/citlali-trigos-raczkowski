@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 31 08:14:16 UTC 2023
+" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Mon Jul 31 08:29:18 UTC 2023
