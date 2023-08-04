@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Fri Aug 4 17:48:52 UTC 2023
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Fri Aug 4 18:12:11 UTC 2023
