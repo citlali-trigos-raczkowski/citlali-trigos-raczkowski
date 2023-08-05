@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Sat Aug 5 03:34:04 UTC 2023
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sat Aug 5 03:49:01 UTC 2023
