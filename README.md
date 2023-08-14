@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Mon Aug 14 01:41:55 UTC 2023
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Mon Aug 14 02:04:46 UTC 2023
