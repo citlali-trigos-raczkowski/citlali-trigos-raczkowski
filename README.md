@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Tue Aug 15 16:48:43 UTC 2023
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 15 17:08:33 UTC 2023
