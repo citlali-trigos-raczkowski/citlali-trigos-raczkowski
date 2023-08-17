@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Thu Aug 17 04:11:25 UTC 2023
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Thu Aug 17 04:25:52 UTC 2023
