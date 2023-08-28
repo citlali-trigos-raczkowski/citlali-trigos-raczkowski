@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Mon Aug 28 18:48:47 UTC 2023
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Mon Aug 28 19:07:44 UTC 2023
