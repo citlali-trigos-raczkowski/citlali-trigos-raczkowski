@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Mon Aug 28 19:48:54 UTC 2023
+" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Mon Aug 28 20:10:20 UTC 2023
