@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Wed Sep 13 03:34:19 UTC 2023
+" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Wed Sep 13 03:48:40 UTC 2023
