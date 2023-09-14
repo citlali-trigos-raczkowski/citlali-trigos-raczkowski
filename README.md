@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Thu Sep 14 06:48:50 UTC 2023
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Thu Sep 14 07:09:26 UTC 2023
