@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Thu Sep 14 11:48:45 UTC 2023
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Thu Sep 14 12:19:21 UTC 2023
