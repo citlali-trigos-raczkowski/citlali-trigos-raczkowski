@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Tue Sep 19 22:34:00 UTC 2023
+" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 19 22:48:44 UTC 2023
