@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 26 16:30:58 UTC 2023
+" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 26 16:48:43 UTC 2023
