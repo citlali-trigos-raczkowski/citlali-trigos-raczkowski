@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Tue Sep 26 09:34:29 UTC 2023
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Tue Sep 26 09:48:44 UTC 2023
