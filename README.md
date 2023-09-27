@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Sep 27 03:48:45 UTC 2023
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Wed Sep 27 04:12:04 UTC 2023
