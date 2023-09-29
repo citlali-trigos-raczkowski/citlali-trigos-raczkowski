@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Fri Sep 29 12:48:33 UTC 2023
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 29 13:12:25 UTC 2023
