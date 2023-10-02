@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Mon Oct 2 13:27:06 UTC 2023
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon Oct 2 13:35:52 UTC 2023
