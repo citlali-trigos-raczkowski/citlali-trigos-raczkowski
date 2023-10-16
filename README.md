@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Mon Oct 16 05:25:28 UTC 2023
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Mon Oct 16 05:34:12 UTC 2023
