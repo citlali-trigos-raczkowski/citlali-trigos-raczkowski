@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Thu Oct 19 15:34:36 UTC 2023
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Oct 19 15:48:51 UTC 2023
