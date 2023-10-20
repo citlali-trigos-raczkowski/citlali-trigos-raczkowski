@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Fri Oct 20 21:08:39 UTC 2023
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Fri Oct 20 21:19:10 UTC 2023
