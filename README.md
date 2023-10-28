@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Sat Oct 28 20:09:28 UTC 2023
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Oct 28 20:20:58 UTC 2023
