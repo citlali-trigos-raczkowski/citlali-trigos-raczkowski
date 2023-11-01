@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Wed Nov 1 12:19:35 UTC 2023
+" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 1 12:48:22 UTC 2023
