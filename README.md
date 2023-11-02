@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Thu Nov 2 12:48:17 UTC 2023
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 2 13:12:23 UTC 2023
