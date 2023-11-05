@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Sun Nov 5 03:24:31 UTC 2023
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sun Nov 5 03:34:28 UTC 2023
