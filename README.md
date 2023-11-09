@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Thu Nov 9 23:22:23 UTC 2023
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Nov 9 23:34:21 UTC 2023
