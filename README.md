@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Mon Nov 13 04:36:57 UTC 2023
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Mon Nov 13 04:48:53 UTC 2023
