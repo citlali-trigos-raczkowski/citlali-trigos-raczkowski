@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 14 09:34:34 UTC 2023
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Tue Nov 14 09:48:51 UTC 2023
