@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Fri Nov 17 19:48:46 UTC 2023
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Fri Nov 17 20:11:25 UTC 2023
