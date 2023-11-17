@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Fri Nov 17 20:34:30 UTC 2023
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Fri Nov 17 20:48:40 UTC 2023
