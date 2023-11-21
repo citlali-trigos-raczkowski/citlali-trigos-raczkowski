@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Tue Nov 21 17:48:54 UTC 2023
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 21 18:14:13 UTC 2023
