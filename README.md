@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Wed Nov 22 10:48:43 UTC 2023
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 22 11:09:10 UTC 2023
