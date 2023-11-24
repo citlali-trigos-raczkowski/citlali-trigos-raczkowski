@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Fri Nov 24 02:37:36 UTC 2023
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Fri Nov 24 02:48:52 UTC 2023
