@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Fri Nov 24 17:48:40 UTC 2023
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 24 18:12:49 UTC 2023
