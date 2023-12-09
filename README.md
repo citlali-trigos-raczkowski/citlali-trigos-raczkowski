@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 9 08:12:31 UTC 2023
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Sat Dec 9 08:26:37 UTC 2023
