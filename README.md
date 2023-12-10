@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Sun Dec 10 11:18:51 UTC 2023
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sun Dec 10 11:34:01 UTC 2023
