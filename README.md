@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Dec 14 18:48:54 UTC 2023
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Thu Dec 14 19:08:34 UTC 2023
