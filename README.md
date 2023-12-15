@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Thu Dec 14 23:48:42 UTC 2023
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Dec 15 00:52:08 UTC 2023
