@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Dec 20 09:08:48 UTC 2023
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Dec 20 09:18:57 UTC 2023
