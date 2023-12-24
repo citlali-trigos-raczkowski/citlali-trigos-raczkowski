@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sun Dec 24 12:45:02 UTC 2023
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sun Dec 24 12:56:56 UTC 2023
