@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Fri Dec 29 15:23:48 UTC 2023
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri Dec 29 15:34:59 UTC 2023
