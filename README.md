@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 30 14:08:39 UTC 2023
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat Dec 30 14:23:57 UTC 2023
