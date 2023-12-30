@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 30 00:48:57 UTC 2023
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Dec 30 01:46:31 UTC 2023
