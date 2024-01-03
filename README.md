@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Wed Jan 3 13:26:05 UTC 2024
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Wed Jan 3 13:34:47 UTC 2024
