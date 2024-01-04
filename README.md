@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 4 04:13:04 UTC 2024
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 4 04:28:43 UTC 2024
