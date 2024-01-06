@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 6 13:34:01 UTC 2024
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sat Jan 6 13:48:42 UTC 2024
