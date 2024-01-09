@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Tue Jan 9 17:34:39 UTC 2024
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Tue Jan 9 17:48:40 UTC 2024
