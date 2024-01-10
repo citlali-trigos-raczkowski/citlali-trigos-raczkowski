@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Jan 10 18:13:34 UTC 2024
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Wed Jan 10 18:29:18 UTC 2024
