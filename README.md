@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Fri Jan 12 10:39:16 UTC 2024
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Fri Jan 12 10:49:00 UTC 2024
