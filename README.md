@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 16:48:50 UTC 2024
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 17:10:07 UTC 2024
