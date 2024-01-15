@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 17:10:07 UTC 2024
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 17:25:50 UTC 2024
