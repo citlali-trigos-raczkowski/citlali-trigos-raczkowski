@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 07:10:38 UTC 2024
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Mon Jan 15 07:22:05 UTC 2024
