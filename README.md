@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Jan 18 14:26:56 UTC 2024
+" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 18 14:35:56 UTC 2024
