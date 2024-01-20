@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sat Jan 20 15:22:29 UTC 2024
+" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sat Jan 20 15:34:12 UTC 2024
