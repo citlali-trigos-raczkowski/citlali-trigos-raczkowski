@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sun Jan 21 20:48:50 UTC 2024
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sun Jan 21 21:09:17 UTC 2024
