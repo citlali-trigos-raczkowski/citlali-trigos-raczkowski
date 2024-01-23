@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Tue Jan 23 21:21:19 UTC 2024
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Tue Jan 23 21:34:34 UTC 2024
