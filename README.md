@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Tue Jan 23 02:44:43 UTC 2024
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Tue Jan 23 02:53:27 UTC 2024
