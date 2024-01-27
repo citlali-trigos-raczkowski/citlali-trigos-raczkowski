@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 27 11:18:43 UTC 2024
+" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 27 11:34:46 UTC 2024
