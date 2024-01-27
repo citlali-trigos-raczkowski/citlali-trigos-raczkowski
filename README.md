@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Jan 27 20:34:05 UTC 2024
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Jan 27 20:48:39 UTC 2024
