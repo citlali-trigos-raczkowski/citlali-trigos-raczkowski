@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Sun Jan 28 00:51:39 UTC 2024
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Sun Jan 28 01:49:43 UTC 2024
