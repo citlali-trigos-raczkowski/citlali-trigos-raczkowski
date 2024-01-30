@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 29 23:48:59 UTC 2024
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Tue Jan 30 00:48:15 UTC 2024
