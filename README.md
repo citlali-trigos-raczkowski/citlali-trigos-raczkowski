@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Sat Feb 3 18:11:24 UTC 2024
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat Feb 3 18:25:34 UTC 2024
