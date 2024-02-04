@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sun Feb 4 09:48:48 UTC 2024
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sun Feb 4 10:10:38 UTC 2024
