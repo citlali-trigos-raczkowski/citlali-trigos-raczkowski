@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Mon Feb 5 22:35:28 UTC 2024
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 5 22:48:40 UTC 2024
