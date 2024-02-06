@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Mon Feb 5 23:48:39 UTC 2024
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Tue Feb 6 00:47:53 UTC 2024
