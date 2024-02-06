@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Tue Feb 6 13:48:51 UTC 2024
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Tue Feb 6 14:10:13 UTC 2024
