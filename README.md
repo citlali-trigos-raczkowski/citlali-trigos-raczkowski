@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Thu Feb 8 22:33:47 UTC 2024
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Feb 8 22:48:57 UTC 2024
