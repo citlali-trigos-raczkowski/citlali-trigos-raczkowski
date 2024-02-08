@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Thu Feb 8 12:55:25 UTC 2024
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Thu Feb 8 13:11:40 UTC 2024
