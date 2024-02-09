@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 9 01:41:14 UTC 2024
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 9 02:05:05 UTC 2024
