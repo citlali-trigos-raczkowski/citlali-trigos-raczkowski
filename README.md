@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sat Feb 10 14:23:31 UTC 2024
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sat Feb 10 14:34:51 UTC 2024
