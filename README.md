@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Thu Feb 15 10:11:29 UTC 2024
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Feb 15 10:28:08 UTC 2024
