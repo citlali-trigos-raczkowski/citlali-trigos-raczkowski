@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Mon Feb 19 18:36:21 UTC 2024
+" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Mon Feb 19 18:48:49 UTC 2024
