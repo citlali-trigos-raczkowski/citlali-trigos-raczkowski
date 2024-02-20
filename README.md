@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Tue Feb 20 13:12:22 UTC 2024
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Tue Feb 20 13:24:43 UTC 2024
