@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 22 01:41:32 UTC 2024
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Thu Feb 22 02:05:16 UTC 2024
