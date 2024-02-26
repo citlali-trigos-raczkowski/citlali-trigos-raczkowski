@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Mon Feb 26 13:48:41 UTC 2024
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Mon Feb 26 14:10:39 UTC 2024
