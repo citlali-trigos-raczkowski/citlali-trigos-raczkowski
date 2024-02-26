@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Mon Feb 26 07:10:57 UTC 2024
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Mon Feb 26 07:21:59 UTC 2024
