@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Tue Feb 27 08:13:03 UTC 2024
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Tue Feb 27 08:26:32 UTC 2024
