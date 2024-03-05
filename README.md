@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Tue Mar 5 07:19:38 UTC 2024
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 5 07:35:11 UTC 2024
