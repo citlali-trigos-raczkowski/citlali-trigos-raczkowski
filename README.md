@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Thu Mar 7 13:22:45 UTC 2024
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Mar 7 13:34:55 UTC 2024
