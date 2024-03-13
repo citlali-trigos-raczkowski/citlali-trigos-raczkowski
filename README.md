@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Wed Mar 13 20:10:20 UTC 2024
+" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Wed Mar 13 20:20:46 UTC 2024
