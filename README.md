@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Fri Mar 22 22:25:42 UTC 2024
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Mar 22 22:34:14 UTC 2024
