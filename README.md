@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Sun Mar 24 14:23:38 UTC 2024
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 24 14:34:30 UTC 2024
