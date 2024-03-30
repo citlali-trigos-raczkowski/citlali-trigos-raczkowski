@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Sat Mar 30 05:36:28 UTC 2024
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Sat Mar 30 05:48:43 UTC 2024
