@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sat Mar 30 03:48:39 UTC 2024
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Mar 30 04:12:04 UTC 2024
