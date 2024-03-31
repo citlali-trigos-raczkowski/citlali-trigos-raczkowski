@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Sun Mar 31 03:24:20 UTC 2024
+" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 31 03:35:28 UTC 2024
