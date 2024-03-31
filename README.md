@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sun Mar 31 22:34:08 UTC 2024
+" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Sun Mar 31 22:48:59 UTC 2024
