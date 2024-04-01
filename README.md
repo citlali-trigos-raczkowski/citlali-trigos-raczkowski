@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Mon Apr 1 05:48:55 UTC 2024
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Mon Apr 1 06:14:16 UTC 2024
