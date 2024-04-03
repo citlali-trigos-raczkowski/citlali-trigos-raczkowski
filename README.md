@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Apr 3 15:10:23 UTC 2024
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Wed Apr 3 15:22:33 UTC 2024
