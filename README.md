@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Fri Apr 5 03:25:20 UTC 2024
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Fri Apr 5 03:35:18 UTC 2024
