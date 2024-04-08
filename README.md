@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 17:10:57 UTC 2024
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 17:25:50 UTC 2024
