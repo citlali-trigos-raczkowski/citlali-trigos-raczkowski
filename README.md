@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 13:23:29 UTC 2024
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 13:34:10 UTC 2024
