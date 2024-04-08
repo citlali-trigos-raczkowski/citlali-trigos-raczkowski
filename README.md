@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 07:48:39 UTC 2024
+" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Mon Apr 8 08:13:58 UTC 2024
