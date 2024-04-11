@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Apr 11 09:23:28 UTC 2024
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Thu Apr 11 09:34:25 UTC 2024
