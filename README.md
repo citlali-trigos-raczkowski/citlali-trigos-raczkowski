@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Thu Apr 11 13:24:05 UTC 2024
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Thu Apr 11 13:34:44 UTC 2024
