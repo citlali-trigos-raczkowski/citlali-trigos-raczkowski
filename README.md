@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 00:49:59 UTC 2024
+" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 01:46:11 UTC 2024
