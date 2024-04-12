@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 22:23:38 UTC 2024
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 22:33:55 UTC 2024
