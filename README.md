@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 13:23:22 UTC 2024
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Fri Apr 12 13:34:12 UTC 2024
