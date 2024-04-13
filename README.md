@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Sat Apr 13 07:48:55 UTC 2024
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sat Apr 13 08:10:12 UTC 2024
