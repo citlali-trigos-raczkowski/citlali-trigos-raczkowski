@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 08:22:52 UTC 2024
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 08:34:52 UTC 2024
