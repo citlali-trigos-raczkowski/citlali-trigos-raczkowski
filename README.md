@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 22:48:51 UTC 2024
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 23:10:12 UTC 2024
