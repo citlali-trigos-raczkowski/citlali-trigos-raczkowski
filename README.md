@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 11:19:14 UTC 2024
+" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Mon Apr 15 11:33:53 UTC 2024
