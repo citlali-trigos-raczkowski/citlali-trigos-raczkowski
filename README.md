@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Tue Apr 16 14:48:53 UTC 2024
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Tue Apr 16 15:11:05 UTC 2024
