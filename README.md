@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Tue Apr 16 04:27:19 UTC 2024
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Tue Apr 16 04:36:21 UTC 2024
