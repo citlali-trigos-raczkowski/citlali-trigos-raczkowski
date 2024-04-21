@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Sun Apr 21 06:48:59 UTC 2024
+" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Sun Apr 21 07:10:21 UTC 2024
