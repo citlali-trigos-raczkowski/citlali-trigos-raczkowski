@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Wed Apr 24 22:11:24 UTC 2024
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Wed Apr 24 22:27:57 UTC 2024
