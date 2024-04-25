@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 25 13:20:05 UTC 2024
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 25 13:34:54 UTC 2024
