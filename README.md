@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 26 03:34:52 UTC 2024
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Fri Apr 26 03:48:58 UTC 2024
