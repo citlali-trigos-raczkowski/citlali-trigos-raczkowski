@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 26 04:48:53 UTC 2024
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Fri Apr 26 05:10:25 UTC 2024
