@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Tue Apr 30 09:12:21 UTC 2024
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Tue Apr 30 09:26:55 UTC 2024
