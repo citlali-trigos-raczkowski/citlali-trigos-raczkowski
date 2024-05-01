@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Wed May 1 06:48:40 UTC 2024
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Wed May 1 07:12:54 UTC 2024
