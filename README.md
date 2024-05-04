@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sat May 4 10:10:05 UTC 2024
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Sat May 4 10:25:39 UTC 2024
