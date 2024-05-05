@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun May 5 14:48:50 UTC 2024
+" You basically can say anything to someone on an email or text as long as you put LOL at the end. " - Kanye West <br/> <br/>Last Updated:  Sun May 5 15:11:52 UTC 2024
