@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Sun May 5 20:22:21 UTC 2024
+" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Sun May 5 20:34:35 UTC 2024
