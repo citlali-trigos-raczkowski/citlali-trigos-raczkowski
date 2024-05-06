@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Mon May 6 07:11:01 UTC 2024
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Mon May 6 07:23:53 UTC 2024
