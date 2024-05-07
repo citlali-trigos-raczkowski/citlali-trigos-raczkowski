@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Tue May 7 06:48:56 UTC 2024
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Tue May 7 07:16:13 UTC 2024
