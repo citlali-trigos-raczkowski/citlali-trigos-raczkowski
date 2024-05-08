@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Wed May 8 04:26:08 UTC 2024
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Wed May 8 04:35:16 UTC 2024
