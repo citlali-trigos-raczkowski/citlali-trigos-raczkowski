@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Wed May 8 14:25:23 UTC 2024
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed May 8 14:35:34 UTC 2024
