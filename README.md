@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Wed May 8 16:30:41 UTC 2024
+" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Wed May 8 16:48:49 UTC 2024
