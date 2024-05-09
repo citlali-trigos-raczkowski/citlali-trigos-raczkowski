@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Thu May 9 14:48:50 UTC 2024
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Thu May 9 15:12:33 UTC 2024
