@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Thu May 9 15:26:34 UTC 2024
+" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Thu May 9 15:35:33 UTC 2024
