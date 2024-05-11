@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Sat May 11 18:48:42 UTC 2024
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sat May 11 19:08:51 UTC 2024
