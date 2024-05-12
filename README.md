@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun May 12 14:48:58 UTC 2024
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Sun May 12 15:10:50 UTC 2024
