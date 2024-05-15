@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Wed May 15 16:13:48 UTC 2024
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Wed May 15 16:31:23 UTC 2024
