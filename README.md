@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Thu May 16 11:48:47 UTC 2024
+" 2024 " - Kanye West <br/> <br/>Last Updated:  Thu May 16 12:21:14 UTC 2024
