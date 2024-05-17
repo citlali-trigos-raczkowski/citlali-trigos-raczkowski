@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Fri May 17 14:35:34 UTC 2024
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Fri May 17 14:48:42 UTC 2024
