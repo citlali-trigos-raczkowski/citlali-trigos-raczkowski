@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Fri May 17 10:11:51 UTC 2024
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Fri May 17 10:28:58 UTC 2024
