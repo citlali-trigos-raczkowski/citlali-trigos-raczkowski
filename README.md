@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sat May 18 14:48:40 UTC 2024
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sat May 18 15:11:58 UTC 2024
