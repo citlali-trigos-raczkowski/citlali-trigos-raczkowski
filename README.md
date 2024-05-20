@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Mon May 20 13:48:39 UTC 2024
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Mon May 20 14:10:47 UTC 2024
