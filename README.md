@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Fri May 24 20:34:53 UTC 2024
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Fri May 24 20:48:58 UTC 2024
