@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Mon May 27 10:39:11 UTC 2024
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon May 27 10:48:43 UTC 2024
