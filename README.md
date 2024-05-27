@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon May 27 22:35:34 UTC 2024
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Mon May 27 22:48:54 UTC 2024
