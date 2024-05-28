@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Tue May 28 17:48:51 UTC 2024
+" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Tue May 28 18:14:25 UTC 2024
