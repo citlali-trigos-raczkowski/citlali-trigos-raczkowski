@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Tue May 28 18:31:33 UTC 2024
+" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Tue May 28 18:48:44 UTC 2024
