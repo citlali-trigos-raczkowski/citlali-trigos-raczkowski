@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Wed May 29 17:48:46 UTC 2024
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Wed May 29 18:14:23 UTC 2024
