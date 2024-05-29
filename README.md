@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Wed May 29 03:13:03 UTC 2024
+" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Wed May 29 03:27:53 UTC 2024
