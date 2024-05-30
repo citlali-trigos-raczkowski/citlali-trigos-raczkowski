@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Thu May 30 16:48:49 UTC 2024
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Thu May 30 17:09:59 UTC 2024
