@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Thu May 30 05:11:34 UTC 2024
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Thu May 30 05:27:18 UTC 2024
