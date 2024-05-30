@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Thu May 30 08:36:08 UTC 2024
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Thu May 30 08:49:03 UTC 2024
