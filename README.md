@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 17:25:19 UTC 2024
+" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 17:34:06 UTC 2024
