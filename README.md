@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 09:13:39 UTC 2024
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 09:27:03 UTC 2024
