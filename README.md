@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 21:11:12 UTC 2024
+" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Sat Jun 1 21:23:20 UTC 2024
