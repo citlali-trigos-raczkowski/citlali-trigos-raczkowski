@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Sun Jun 2 14:48:56 UTC 2024
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Jun 2 15:10:40 UTC 2024
