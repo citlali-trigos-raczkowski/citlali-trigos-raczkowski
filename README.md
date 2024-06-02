@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 2 07:11:13 UTC 2024
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 2 07:24:01 UTC 2024
