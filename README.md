@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Jun 3 13:13:40 UTC 2024
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Jun 3 13:27:50 UTC 2024
