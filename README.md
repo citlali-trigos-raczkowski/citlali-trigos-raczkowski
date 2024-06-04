@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Tue Jun 4 14:11:07 UTC 2024
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Tue Jun 4 14:27:31 UTC 2024
