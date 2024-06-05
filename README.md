@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Wed Jun 5 02:28:59 UTC 2024
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 5 02:45:31 UTC 2024
