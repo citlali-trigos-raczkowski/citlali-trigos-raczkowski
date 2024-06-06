@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Thu Jun 6 22:26:57 UTC 2024
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Thu Jun 6 22:35:56 UTC 2024
