@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Fri Jun 7 08:14:58 UTC 2024
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 7 08:30:41 UTC 2024
