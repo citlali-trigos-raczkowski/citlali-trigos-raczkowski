@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Fri Jun 7 16:32:20 UTC 2024
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Fri Jun 7 16:48:40 UTC 2024
