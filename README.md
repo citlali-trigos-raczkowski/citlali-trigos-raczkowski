@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sun Jun 9 16:39:33 UTC 2024
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 9 16:48:41 UTC 2024
