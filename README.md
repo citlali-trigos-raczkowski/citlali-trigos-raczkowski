@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Tue Jun 11 04:31:44 UTC 2024
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Tue Jun 11 04:48:58 UTC 2024
