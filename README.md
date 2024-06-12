@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Wed Jun 12 20:35:10 UTC 2024
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Wed Jun 12 20:48:57 UTC 2024
