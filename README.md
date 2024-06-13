@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 14:28:34 UTC 2024
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 14:37:51 UTC 2024
