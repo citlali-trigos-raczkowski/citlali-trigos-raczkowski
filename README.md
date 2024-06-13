@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 05:48:48 UTC 2024
+" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 06:16:16 UTC 2024
