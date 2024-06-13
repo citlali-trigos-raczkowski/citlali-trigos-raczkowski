@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 23:12:34 UTC 2024
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Thu Jun 13 23:24:26 UTC 2024
