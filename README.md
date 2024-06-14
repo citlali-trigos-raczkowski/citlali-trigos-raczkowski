@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 14 17:48:46 UTC 2024
+" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Fri Jun 14 18:16:06 UTC 2024
