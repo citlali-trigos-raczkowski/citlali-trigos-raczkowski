@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Fri Jun 14 15:48:52 UTC 2024
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Fri Jun 14 16:13:34 UTC 2024
