@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Sat Jun 15 11:10:05 UTC 2024
+" I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory. " - Kanye West <br/> <br/>Last Updated:  Sat Jun 15 11:20:11 UTC 2024
