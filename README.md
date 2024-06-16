@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sun Jun 16 22:29:17 UTC 2024
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 16 22:38:48 UTC 2024
