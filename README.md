@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sun Jun 16 18:48:59 UTC 2024
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Sun Jun 16 19:10:51 UTC 2024
