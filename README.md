@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Mon Jun 17 02:52:24 UTC 2024
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Mon Jun 17 03:14:20 UTC 2024
