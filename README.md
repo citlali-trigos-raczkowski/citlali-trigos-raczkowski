@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Tue Jun 18 09:48:59 UTC 2024
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Tue Jun 18 10:12:20 UTC 2024
