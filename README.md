@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Wed Jun 19 05:48:42 UTC 2024
+" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Wed Jun 19 06:16:29 UTC 2024
