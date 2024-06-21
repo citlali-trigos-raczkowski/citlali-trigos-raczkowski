@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 20 23:48:45 UTC 2024
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Fri Jun 21 00:54:00 UTC 2024
