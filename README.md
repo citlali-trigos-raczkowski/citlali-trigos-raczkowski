@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Mon Jun 24 17:25:55 UTC 2024
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Mon Jun 24 17:34:57 UTC 2024
