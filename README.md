@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Jun 24 13:35:16 UTC 2024
+" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Mon Jun 24 13:48:42 UTC 2024
