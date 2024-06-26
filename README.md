@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Wed Jun 26 20:14:05 UTC 2024
+" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 26 20:28:47 UTC 2024
