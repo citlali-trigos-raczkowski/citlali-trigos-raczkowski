@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 03:13:23 UTC 2024
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 03:28:39 UTC 2024
