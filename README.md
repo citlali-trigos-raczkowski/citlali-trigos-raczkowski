@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 14:48:43 UTC 2024
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 15:12:48 UTC 2024
