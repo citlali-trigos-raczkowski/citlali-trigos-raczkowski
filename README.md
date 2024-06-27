@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 05:48:52 UTC 2024
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 06:16:45 UTC 2024
