@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 11:20:54 UTC 2024
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 27 11:35:21 UTC 2024
