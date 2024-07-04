@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Thu Jul 4 11:35:36 UTC 2024
+" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Thu Jul 4 11:48:59 UTC 2024
