@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Thu Jul 4 14:11:04 UTC 2024
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Thu Jul 4 14:27:03 UTC 2024
