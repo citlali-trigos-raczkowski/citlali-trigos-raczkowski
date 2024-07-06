@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 6 13:48:54 UTC 2024
+" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Sat Jul 6 14:09:28 UTC 2024
