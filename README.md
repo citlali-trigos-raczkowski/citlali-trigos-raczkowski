@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 14:25:11 UTC 2024
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 14:34:07 UTC 2024
