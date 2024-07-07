@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 16:13:00 UTC 2024
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 16:29:35 UTC 2024
