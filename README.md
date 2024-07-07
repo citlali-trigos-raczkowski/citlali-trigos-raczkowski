@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 06:38:04 UTC 2024
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 06:48:57 UTC 2024
