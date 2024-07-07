@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 09:13:12 UTC 2024
+" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Sun Jul 7 09:27:15 UTC 2024
