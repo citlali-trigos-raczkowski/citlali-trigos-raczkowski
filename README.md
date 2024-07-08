@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Mon Jul 8 16:48:41 UTC 2024
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Mon Jul 8 17:10:33 UTC 2024
