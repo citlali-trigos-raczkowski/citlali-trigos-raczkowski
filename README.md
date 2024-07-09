@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Tue Jul 9 16:48:44 UTC 2024
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Tue Jul 9 17:11:55 UTC 2024
