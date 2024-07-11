@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Thu Jul 11 10:39:20 UTC 2024
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 11 10:48:55 UTC 2024
