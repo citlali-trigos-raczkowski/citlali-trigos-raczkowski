@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Thu Jul 11 10:12:10 UTC 2024
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Thu Jul 11 10:29:49 UTC 2024
