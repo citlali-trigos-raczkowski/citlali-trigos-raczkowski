@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Fri Jul 12 03:29:14 UTC 2024
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Jul 12 03:39:21 UTC 2024
