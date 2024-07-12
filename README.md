@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Fri Jul 12 10:30:32 UTC 2024
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Fri Jul 12 10:48:46 UTC 2024
