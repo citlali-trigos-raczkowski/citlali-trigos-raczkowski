@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sat Jul 13 04:48:40 UTC 2024
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Sat Jul 13 05:11:38 UTC 2024
