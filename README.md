@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Sun Jul 14 03:48:58 UTC 2024
+" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Sun Jul 14 04:15:47 UTC 2024
