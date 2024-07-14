@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sun Jul 14 08:48:52 UTC 2024
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Sun Jul 14 09:13:29 UTC 2024
