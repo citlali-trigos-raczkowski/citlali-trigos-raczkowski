@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Mon Jul 15 02:44:03 UTC 2024
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 15 02:54:22 UTC 2024
