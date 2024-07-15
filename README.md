@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Mon Jul 15 10:13:16 UTC 2024
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Mon Jul 15 10:31:13 UTC 2024
