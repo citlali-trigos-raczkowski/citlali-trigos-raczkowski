@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 17 10:31:28 UTC 2024
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Wed Jul 17 10:49:02 UTC 2024
