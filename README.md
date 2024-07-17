@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 17 09:29:46 UTC 2024
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Wed Jul 17 09:39:49 UTC 2024
