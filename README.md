@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 20 06:17:24 UTC 2024
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Jul 20 06:38:32 UTC 2024
