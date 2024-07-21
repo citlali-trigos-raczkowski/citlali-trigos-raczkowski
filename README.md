@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Sun Jul 21 13:48:56 UTC 2024
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sun Jul 21 14:10:25 UTC 2024
