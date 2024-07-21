@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sun Jul 21 13:12:18 UTC 2024
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Sun Jul 21 13:24:52 UTC 2024
