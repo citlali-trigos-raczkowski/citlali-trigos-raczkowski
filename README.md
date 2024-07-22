@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Jul 22 20:35:04 UTC 2024
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Mon Jul 22 20:48:57 UTC 2024
