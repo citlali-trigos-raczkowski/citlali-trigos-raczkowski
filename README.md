@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Tue Jul 23 04:48:59 UTC 2024
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Tue Jul 23 05:11:43 UTC 2024
