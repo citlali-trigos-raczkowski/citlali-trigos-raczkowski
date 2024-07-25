@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Thu Jul 25 08:37:37 UTC 2024
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Thu Jul 25 08:49:00 UTC 2024
