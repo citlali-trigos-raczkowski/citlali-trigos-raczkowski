@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 27 00:55:55 UTC 2024
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Jul 27 01:59:30 UTC 2024
