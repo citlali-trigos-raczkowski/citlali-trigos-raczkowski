@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 27 21:48:51 UTC 2024
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 27 22:10:29 UTC 2024
