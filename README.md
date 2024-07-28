@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 21:34:30 UTC 2024
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 21:48:41 UTC 2024
