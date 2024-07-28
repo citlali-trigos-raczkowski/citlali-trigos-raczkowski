@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 13:25:26 UTC 2024
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 13:35:11 UTC 2024
