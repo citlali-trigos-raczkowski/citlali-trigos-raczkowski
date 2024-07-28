@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 14:10:12 UTC 2024
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sun Jul 28 14:25:30 UTC 2024
