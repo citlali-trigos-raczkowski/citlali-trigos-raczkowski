@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 09:48:51 UTC 2024
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 10:14:09 UTC 2024
