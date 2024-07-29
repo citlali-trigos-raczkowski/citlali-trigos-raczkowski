@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 12:23:20 UTC 2024
+" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 12:52:44 UTC 2024
