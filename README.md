@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 20:48:56 UTC 2024
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 21:12:34 UTC 2024
