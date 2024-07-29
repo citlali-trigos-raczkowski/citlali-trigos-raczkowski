@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 15:37:28 UTC 2024
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Mon Jul 29 15:48:44 UTC 2024
