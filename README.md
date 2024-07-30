@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Jul 30 00:56:56 UTC 2024
+" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Tue Jul 30 02:02:50 UTC 2024
