@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Wed Jul 31 12:52:29 UTC 2024
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Wed Jul 31 13:15:13 UTC 2024
