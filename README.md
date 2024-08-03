@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat Aug 3 07:35:06 UTC 2024
+" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Sat Aug 3 07:48:57 UTC 2024
