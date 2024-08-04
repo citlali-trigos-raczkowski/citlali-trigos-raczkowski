@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Sun Aug 4 19:48:58 UTC 2024
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sun Aug 4 20:12:45 UTC 2024
