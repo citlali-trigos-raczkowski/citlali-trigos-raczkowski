@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Sun Aug 4 11:34:53 UTC 2024
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Sun Aug 4 11:48:41 UTC 2024
