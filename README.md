@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Aug 8 23:25:52 UTC 2024
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Thu Aug 8 23:35:17 UTC 2024
