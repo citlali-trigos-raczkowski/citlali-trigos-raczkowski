@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Fri Aug 9 14:11:55 UTC 2024
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Fri Aug 9 14:28:43 UTC 2024
