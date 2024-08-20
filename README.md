@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Tue Aug 20 16:32:47 UTC 2024
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Tue Aug 20 16:48:59 UTC 2024
