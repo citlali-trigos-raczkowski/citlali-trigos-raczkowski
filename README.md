@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sat Aug 24 05:11:12 UTC 2024
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat Aug 24 05:29:02 UTC 2024
