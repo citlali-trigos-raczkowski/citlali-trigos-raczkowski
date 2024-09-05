@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Thu Sep 5 16:16:11 UTC 2024
+" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Thu Sep 5 16:41:20 UTC 2024
