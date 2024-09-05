@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Thu Sep 5 14:49:24 UTC 2024
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Thu Sep 5 15:13:12 UTC 2024
