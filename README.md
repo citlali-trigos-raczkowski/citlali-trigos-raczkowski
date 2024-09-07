@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sat Sep 7 04:37:36 UTC 2024
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Sep 7 04:48:47 UTC 2024
