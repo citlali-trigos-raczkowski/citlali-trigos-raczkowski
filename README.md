@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Thu Sep 12 23:48:49 UTC 2024
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Fri Sep 13 01:01:02 UTC 2024
