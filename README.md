@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Sep 20 23:48:51 UTC 2024
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 21 01:01:03 UTC 2024
