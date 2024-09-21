@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 21 09:26:36 UTC 2024
+" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Sat Sep 21 09:35:41 UTC 2024
