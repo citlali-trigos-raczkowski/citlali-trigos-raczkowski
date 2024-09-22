@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Sep 22 04:41:07 UTC 2024
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Sun Sep 22 04:50:31 UTC 2024
