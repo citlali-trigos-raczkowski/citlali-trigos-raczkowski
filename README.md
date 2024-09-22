@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Sun Sep 22 22:12:16 UTC 2024
+" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sun Sep 22 22:30:09 UTC 2024
