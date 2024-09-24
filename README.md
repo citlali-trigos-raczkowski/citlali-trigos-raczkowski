@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Tue Sep 24 04:16:28 UTC 2024
+" I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh. " - Kanye West <br/> <br/>Last Updated:  Tue Sep 24 04:39:53 UTC 2024
