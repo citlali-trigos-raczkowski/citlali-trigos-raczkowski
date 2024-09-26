@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Thu Sep 26 02:29:31 UTC 2024
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Thu Sep 26 03:02:38 UTC 2024
