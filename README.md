@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Sep 26 15:48:53 UTC 2024
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Sep 26 16:16:28 UTC 2024
