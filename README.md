@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Fri Sep 27 02:30:32 UTC 2024
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri Sep 27 03:03:50 UTC 2024
