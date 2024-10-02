@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Wed Oct 2 17:48:43 UTC 2024
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Wed Oct 2 18:18:34 UTC 2024
