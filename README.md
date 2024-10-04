@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Fri Oct 4 15:30:42 UTC 2024
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Fri Oct 4 15:48:43 UTC 2024
