@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sun Oct 6 22:49:13 UTC 2024
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sun Oct 6 23:12:13 UTC 2024
