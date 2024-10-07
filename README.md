@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Mon Oct 7 19:34:59 UTC 2024
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Mon Oct 7 19:48:42 UTC 2024
