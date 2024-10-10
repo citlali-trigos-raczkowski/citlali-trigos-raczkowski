@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Thu Oct 10 23:12:57 UTC 2024
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Thu Oct 10 23:27:37 UTC 2024
