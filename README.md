@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Thu Oct 10 07:26:43 UTC 2024
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Thu Oct 10 07:36:07 UTC 2024
