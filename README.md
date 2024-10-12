@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Sat Oct 12 13:16:51 UTC 2024
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Oct 12 13:35:17 UTC 2024
