@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Wed Oct 16 14:48:40 UTC 2024
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Wed Oct 16 15:14:38 UTC 2024
