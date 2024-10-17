@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Thu Oct 17 08:51:26 UTC 2024
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Thu Oct 17 09:14:36 UTC 2024
