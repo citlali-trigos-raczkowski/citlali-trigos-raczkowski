@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Thu Oct 17 04:41:35 UTC 2024
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Thu Oct 17 04:51:47 UTC 2024
