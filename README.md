@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Fri Oct 18 15:13:54 UTC 2024
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Fri Oct 18 15:30:17 UTC 2024
