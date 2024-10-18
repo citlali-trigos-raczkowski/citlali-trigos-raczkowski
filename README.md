@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Fri Oct 18 19:35:34 UTC 2024
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Fri Oct 18 19:48:45 UTC 2024
