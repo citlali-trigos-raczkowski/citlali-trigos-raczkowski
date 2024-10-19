@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Sat Oct 19 22:32:57 UTC 2024
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sat Oct 19 22:48:55 UTC 2024
