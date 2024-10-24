@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Thu Oct 24 18:18:01 UTC 2024
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Thu Oct 24 18:42:38 UTC 2024
