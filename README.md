@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Fri Oct 25 07:28:55 UTC 2024
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Fri Oct 25 07:38:58 UTC 2024
