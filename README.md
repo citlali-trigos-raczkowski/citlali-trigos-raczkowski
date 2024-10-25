@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Fri Oct 25 06:52:14 UTC 2024
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Fri Oct 25 07:13:01 UTC 2024
