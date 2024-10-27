@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sun Oct 27 12:54:37 UTC 2024
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sun Oct 27 13:17:46 UTC 2024
