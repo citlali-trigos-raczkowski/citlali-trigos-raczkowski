@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Sun Oct 27 03:51:36 UTC 2024
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sun Oct 27 04:16:10 UTC 2024
