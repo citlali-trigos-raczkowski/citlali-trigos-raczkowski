@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Tue Oct 29 11:35:23 UTC 2024
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Tue Oct 29 11:48:58 UTC 2024
