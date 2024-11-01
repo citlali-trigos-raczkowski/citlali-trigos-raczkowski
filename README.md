@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You basically can say anything to someone on an email or text as long as you put LOL at the end. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 1 22:48:41 UTC 2024
+" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Fri Nov 1 23:13:03 UTC 2024
