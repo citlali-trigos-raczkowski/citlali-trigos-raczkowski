@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sun Nov 3 13:17:30 UTC 2024
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sun Nov 3 13:35:42 UTC 2024
