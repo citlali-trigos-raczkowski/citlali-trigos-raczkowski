@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 5 18:41:57 UTC 2024
+" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 5 18:50:33 UTC 2024
