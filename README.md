@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 06:50:47 UTC 2024
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 07:12:23 UTC 2024
