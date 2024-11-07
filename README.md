@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 19:35:12 UTC 2024
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 19:48:43 UTC 2024
