@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 17:48:56 UTC 2024
+" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Thu Nov 7 18:17:32 UTC 2024
