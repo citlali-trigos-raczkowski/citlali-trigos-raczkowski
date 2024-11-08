@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Fri Nov 8 14:48:43 UTC 2024
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Fri Nov 8 15:13:54 UTC 2024
