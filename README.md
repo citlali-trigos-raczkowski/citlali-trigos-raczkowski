@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sat Nov 9 20:48:50 UTC 2024
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sat Nov 9 21:11:59 UTC 2024
