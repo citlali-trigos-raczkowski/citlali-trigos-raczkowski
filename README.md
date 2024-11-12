@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Tue Nov 12 08:17:31 UTC 2024
+" 2024 " - Kanye West <br/> <br/>Last Updated:  Tue Nov 12 08:40:50 UTC 2024
