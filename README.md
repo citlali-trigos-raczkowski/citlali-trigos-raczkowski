@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Tue Nov 12 09:29:53 UTC 2024
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Tue Nov 12 09:40:47 UTC 2024
