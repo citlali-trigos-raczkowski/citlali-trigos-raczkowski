@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Wed Nov 13 09:49:06 UTC 2024
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Wed Nov 13 10:14:18 UTC 2024
