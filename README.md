@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the best " - Kanye West <br/> <br/>Last Updated:  Sun Nov 17 20:49:10 UTC 2024
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sun Nov 17 21:11:59 UTC 2024
