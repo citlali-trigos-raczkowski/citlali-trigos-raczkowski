@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 19 09:15:15 UTC 2024
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Tue Nov 19 09:38:16 UTC 2024
