@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Thu Nov 21 02:35:42 UTC 2024
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Thu Nov 21 03:17:10 UTC 2024
