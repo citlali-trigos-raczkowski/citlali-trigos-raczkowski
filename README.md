@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Fri Nov 22 17:30:09 UTC 2024
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Fri Nov 22 17:41:12 UTC 2024
