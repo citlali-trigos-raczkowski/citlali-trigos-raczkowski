@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Mon Nov 25 13:49:03 UTC 2024
+" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Nov 25 14:13:28 UTC 2024
