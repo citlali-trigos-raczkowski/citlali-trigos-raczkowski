@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Nov 26 17:48:49 UTC 2024
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Tue Nov 26 18:19:45 UTC 2024
