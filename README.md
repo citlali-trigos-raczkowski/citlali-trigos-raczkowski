@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Tue Nov 26 13:03:23 UTC 2024
+" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Tue Nov 26 13:35:49 UTC 2024
