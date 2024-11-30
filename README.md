@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Nov 30 18:50:28 UTC 2024
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Nov 30 19:10:15 UTC 2024
