@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Sun Dec 1 15:48:54 UTC 2024
+" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Sun Dec 1 16:15:40 UTC 2024
