@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Mon Dec 2 14:34:51 UTC 2024
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Dec 2 14:49:42 UTC 2024
