@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Fri Dec 6 07:40:31 UTC 2024
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Fri Dec 6 07:49:08 UTC 2024
