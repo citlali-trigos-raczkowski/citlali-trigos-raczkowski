@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Fri Dec 6 19:11:30 UTC 2024
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Fri Dec 6 19:24:04 UTC 2024
