@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Dec 7 22:31:57 UTC 2024
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Dec 7 22:48:44 UTC 2024
