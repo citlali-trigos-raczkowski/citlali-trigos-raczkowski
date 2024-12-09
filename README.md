@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I really love my Tesla. I'm in the future. Thank you Elon. " - Kanye West <br/> <br/>Last Updated:  Mon Dec 9 10:52:15 UTC 2024
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Dec 9 11:12:34 UTC 2024
