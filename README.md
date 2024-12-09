@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Dec 9 16:18:35 UTC 2024
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Mon Dec 9 16:46:36 UTC 2024
