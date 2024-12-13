@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Fri Dec 13 03:25:51 UTC 2024
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Fri Dec 13 03:49:35 UTC 2024
