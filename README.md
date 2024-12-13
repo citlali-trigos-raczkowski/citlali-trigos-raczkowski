@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Fri Dec 13 08:53:52 UTC 2024
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Fri Dec 13 09:15:27 UTC 2024
