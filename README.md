@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 14 15:48:52 UTC 2024
+" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Sat Dec 14 16:15:52 UTC 2024
