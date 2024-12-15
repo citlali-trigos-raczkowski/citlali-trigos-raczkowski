@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sun Dec 15 19:48:51 UTC 2024
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Sun Dec 15 20:14:44 UTC 2024
