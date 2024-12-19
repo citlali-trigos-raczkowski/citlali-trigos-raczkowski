@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Thu Dec 19 18:50:21 UTC 2024
+" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Thu Dec 19 19:10:47 UTC 2024
