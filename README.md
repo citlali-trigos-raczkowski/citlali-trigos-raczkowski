@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Mon Dec 23 09:14:42 UTC 2024
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Mon Dec 23 09:30:16 UTC 2024
