@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Wed Jan 1 13:19:05 UTC 2025
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Wed Jan 1 13:35:51 UTC 2025
