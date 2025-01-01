@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Wed Jan 1 23:12:37 UTC 2025
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Wed Jan 1 23:26:26 UTC 2025
