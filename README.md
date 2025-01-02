@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Thu Jan 2 17:28:03 UTC 2025
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Thu Jan 2 17:37:32 UTC 2025
