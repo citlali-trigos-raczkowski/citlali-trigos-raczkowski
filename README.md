@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Thu Jan 2 23:12:50 UTC 2025
+" 2024 " - Kanye West <br/> <br/>Last Updated:  Thu Jan 2 23:26:33 UTC 2025
