@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Fri Jan 3 14:49:16 UTC 2025
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Fri Jan 3 15:13:27 UTC 2025
