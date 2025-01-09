@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Thu Jan 9 09:29:56 UTC 2025
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Thu Jan 9 09:40:08 UTC 2025
