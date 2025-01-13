@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 21:25:20 UTC 2025
+" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 21:35:50 UTC 2025
