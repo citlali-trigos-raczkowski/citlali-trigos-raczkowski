@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 23:25:21 UTC 2025
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 23:35:01 UTC 2025
