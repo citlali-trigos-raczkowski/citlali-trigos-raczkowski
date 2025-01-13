@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 19:22:19 UTC 2025
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 19:35:15 UTC 2025
