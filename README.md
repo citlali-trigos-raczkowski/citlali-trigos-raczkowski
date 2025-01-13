@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 22:12:02 UTC 2025
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Mon Jan 13 22:27:44 UTC 2025
