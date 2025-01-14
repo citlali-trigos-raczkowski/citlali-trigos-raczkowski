@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Tue Jan 14 06:18:04 UTC 2025
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Tue Jan 14 06:41:35 UTC 2025
