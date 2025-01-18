@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Sat Jan 18 14:11:29 UTC 2025
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sat Jan 18 14:27:12 UTC 2025
