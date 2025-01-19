@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 20:12:38 UTC 2025
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 20:26:21 UTC 2025
