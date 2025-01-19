@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 13:14:16 UTC 2025
+" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 13:27:27 UTC 2025
