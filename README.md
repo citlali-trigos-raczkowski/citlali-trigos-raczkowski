@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 14:48:42 UTC 2025
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 15:12:19 UTC 2025
