@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 15:48:55 UTC 2025
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sun Jan 19 16:14:12 UTC 2025
