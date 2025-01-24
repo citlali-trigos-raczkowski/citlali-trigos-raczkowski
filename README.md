@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri Jan 24 20:28:51 UTC 2025
+" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Fri Jan 24 20:36:45 UTC 2025
