@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Fri Jan 24 18:49:46 UTC 2025
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Fri Jan 24 19:10:06 UTC 2025
