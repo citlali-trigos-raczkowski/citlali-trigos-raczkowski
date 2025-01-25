@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Sat Jan 25 20:12:42 UTC 2025
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sat Jan 25 20:26:18 UTC 2025
