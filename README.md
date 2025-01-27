@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon Jan 27 12:57:00 UTC 2025
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Jan 27 13:21:57 UTC 2025
