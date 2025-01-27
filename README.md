@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 27 23:35:32 UTC 2025
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Mon Jan 27 23:48:44 UTC 2025
