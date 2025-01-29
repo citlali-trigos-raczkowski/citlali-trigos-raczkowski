@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Wed Jan 29 14:48:43 UTC 2025
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Wed Jan 29 15:13:41 UTC 2025
