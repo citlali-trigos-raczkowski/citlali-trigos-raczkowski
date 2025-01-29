@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Wed Jan 29 06:50:13 UTC 2025
+" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Wed Jan 29 07:12:26 UTC 2025
