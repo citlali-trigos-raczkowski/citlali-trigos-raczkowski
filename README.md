@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 30 07:34:48 UTC 2025
+" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Thu Jan 30 07:48:48 UTC 2025
