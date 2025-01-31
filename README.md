@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Fri Jan 31 22:48:45 UTC 2025
+" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Fri Jan 31 23:12:00 UTC 2025
