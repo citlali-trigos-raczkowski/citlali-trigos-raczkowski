@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Fri Jan 31 18:49:15 UTC 2025
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Fri Jan 31 19:10:24 UTC 2025
