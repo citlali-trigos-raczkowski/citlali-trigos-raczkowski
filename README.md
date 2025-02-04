@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Feb 4 07:48:54 UTC 2025
+" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Tue Feb 4 08:17:25 UTC 2025
