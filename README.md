@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Wed Feb 5 11:34:56 UTC 2025
+" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Wed Feb 5 11:48:41 UTC 2025
