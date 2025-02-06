@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Feb 6 19:48:54 UTC 2025
+" My mother in law Kris Jenner ... makes the best music playlist " - Kanye West <br/> <br/>Last Updated:  Thu Feb 6 20:13:59 UTC 2025
