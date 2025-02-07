@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Feb 7 09:29:12 UTC 2025
+" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Fri Feb 7 09:39:00 UTC 2025
