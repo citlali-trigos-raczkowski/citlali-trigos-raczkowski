@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Mon Feb 10 15:48:41 UTC 2025
+" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Mon Feb 10 16:17:02 UTC 2025
