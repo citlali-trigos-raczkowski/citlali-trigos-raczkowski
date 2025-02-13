@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Thu Feb 13 03:48:50 UTC 2025
+" There's so many lonely emojis man " - Kanye West <br/> <br/>Last Updated:  Thu Feb 13 04:16:04 UTC 2025
