@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Mon Feb 17 03:05:02 UTC 2025
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Mon Feb 17 03:33:44 UTC 2025
