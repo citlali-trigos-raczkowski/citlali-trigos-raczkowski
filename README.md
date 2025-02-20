@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Thu Feb 20 22:12:49 UTC 2025
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Thu Feb 20 22:30:55 UTC 2025
