@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Sat Feb 22 20:36:56 UTC 2025
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Feb 22 20:48:49 UTC 2025
