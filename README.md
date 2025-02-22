@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 21 23:48:47 UTC 2025
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Sat Feb 22 01:03:21 UTC 2025
