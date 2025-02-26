@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Wed Feb 26 17:12:28 UTC 2025
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Wed Feb 26 17:29:21 UTC 2025
