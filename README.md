@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Thu Feb 27 06:43:45 UTC 2025
+" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Thu Feb 27 06:52:18 UTC 2025
