@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Fri Feb 28 11:48:52 UTC 2025
+" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 28 12:27:14 UTC 2025
