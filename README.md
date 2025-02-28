@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Fri Feb 28 05:32:51 UTC 2025
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Fri Feb 28 05:48:46 UTC 2025
