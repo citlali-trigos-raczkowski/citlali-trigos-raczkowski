@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I was just speaking with someone that told me their life story and they used to be homeless. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 23:27:22 UTC 2025
+" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 23:37:01 UTC 2025
