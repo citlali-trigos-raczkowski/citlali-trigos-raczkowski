@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 08:17:03 UTC 2025
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 08:42:05 UTC 2025
