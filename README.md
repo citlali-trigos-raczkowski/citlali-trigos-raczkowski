@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 22:40:55 UTC 2025
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Tue Mar 4 22:49:27 UTC 2025
