@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" 2024 " - Kanye West <br/> <br/>Last Updated:  Thu Mar 6 23:28:03 UTC 2025
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Thu Mar 6 23:37:58 UTC 2025
