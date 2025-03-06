@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu Mar 6 10:49:10 UTC 2025
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Thu Mar 6 11:11:57 UTC 2025
