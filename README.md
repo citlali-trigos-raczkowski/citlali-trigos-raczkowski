@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Sat Mar 8 22:34:38 UTC 2025
+" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Sat Mar 8 22:48:40 UTC 2025
