@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sun Mar 9 19:08:21 UTC 2025
+" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Sun Mar 9 19:18:41 UTC 2025
