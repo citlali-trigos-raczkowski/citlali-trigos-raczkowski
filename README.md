@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun Mar 9 15:12:07 UTC 2025
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sun Mar 9 15:24:32 UTC 2025
