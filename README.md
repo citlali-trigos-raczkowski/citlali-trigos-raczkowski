@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 9 23:48:45 UTC 2025
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Mon Mar 10 00:57:25 UTC 2025
