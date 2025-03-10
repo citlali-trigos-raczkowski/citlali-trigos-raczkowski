@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Mon Mar 10 19:48:45 UTC 2025
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Mar 10 20:15:16 UTC 2025
