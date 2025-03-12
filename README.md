@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Wed Mar 12 21:13:11 UTC 2025
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Wed Mar 12 21:27:47 UTC 2025
