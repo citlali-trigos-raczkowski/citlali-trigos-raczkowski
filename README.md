@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There's a crying need for civility across the board. We need to and will come together in the name of Jesus. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 12 22:48:44 UTC 2025
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 12 23:13:32 UTC 2025
