@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Mar 15 22:31:23 UTC 2025
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Mar 15 22:48:40 UTC 2025
