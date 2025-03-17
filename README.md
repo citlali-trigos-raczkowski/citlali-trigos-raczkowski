@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Mon Mar 17 08:52:55 UTC 2025
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Mon Mar 17 09:16:48 UTC 2025
