@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Tue Mar 18 07:49:17 UTC 2025
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 18 08:19:05 UTC 2025
