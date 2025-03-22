@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Sat Mar 22 20:13:58 UTC 2025
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Sat Mar 22 20:29:18 UTC 2025
