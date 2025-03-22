@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Sat Mar 22 15:27:19 UTC 2025
+" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Sat Mar 22 15:36:40 UTC 2025
