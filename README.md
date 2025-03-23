@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sun Mar 23 07:36:25 UTC 2025
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sun Mar 23 07:48:38 UTC 2025
