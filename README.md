@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Mon Mar 24 15:16:01 UTC 2025
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Mon Mar 24 15:39:26 UTC 2025
