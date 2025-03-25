@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 25 15:40:29 UTC 2025
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Tue Mar 25 15:49:26 UTC 2025
