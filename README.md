@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Thu Mar 27 17:12:48 UTC 2025
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Thu Mar 27 17:28:27 UTC 2025
