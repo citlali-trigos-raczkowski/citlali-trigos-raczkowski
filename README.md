@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Mar 27 20:15:24 UTC 2025
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Thu Mar 27 20:37:35 UTC 2025
