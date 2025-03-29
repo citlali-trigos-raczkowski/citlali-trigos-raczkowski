@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sat Mar 29 14:31:25 UTC 2025
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat Mar 29 14:48:40 UTC 2025
