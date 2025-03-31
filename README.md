@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Mon Mar 31 02:45:25 UTC 2025
+" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Mon Mar 31 03:33:43 UTC 2025
