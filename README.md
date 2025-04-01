@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Tue Apr 1 06:21:40 UTC 2025
+" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Tue Apr 1 06:47:40 UTC 2025
