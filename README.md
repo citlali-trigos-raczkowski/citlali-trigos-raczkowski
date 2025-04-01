@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Tue Apr 1 10:51:16 UTC 2025
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Tue Apr 1 11:12:31 UTC 2025
