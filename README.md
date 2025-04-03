@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 3 19:24:33 UTC 2025
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Thu Apr 3 19:35:27 UTC 2025
