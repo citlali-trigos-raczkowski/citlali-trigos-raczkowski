@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Apr 3 12:29:14 UTC 2025
+" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Thu Apr 3 13:03:49 UTC 2025
