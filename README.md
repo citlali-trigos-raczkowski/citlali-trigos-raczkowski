@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Sat Apr 5 21:36:44 UTC 2025
+" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 5 21:48:39 UTC 2025
