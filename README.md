@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Sat Apr 5 05:32:52 UTC 2025
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sat Apr 5 05:48:51 UTC 2025
