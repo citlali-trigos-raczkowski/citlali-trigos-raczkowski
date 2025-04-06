@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sun Apr 6 15:28:20 UTC 2025
+" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Sun Apr 6 15:38:21 UTC 2025
