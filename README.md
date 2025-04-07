@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Mon Apr 7 23:14:36 UTC 2025
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Mon Apr 7 23:30:47 UTC 2025
