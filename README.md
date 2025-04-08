@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Tue Apr 8 23:13:34 UTC 2025
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Tue Apr 8 23:28:47 UTC 2025
