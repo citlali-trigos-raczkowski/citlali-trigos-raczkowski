@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Wed Apr 9 09:49:11 UTC 2025
+" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Wed Apr 9 10:17:45 UTC 2025
