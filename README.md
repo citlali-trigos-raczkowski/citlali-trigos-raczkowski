@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Wed Apr 9 23:38:40 UTC 2025
+" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Wed Apr 9 23:48:40 UTC 2025
