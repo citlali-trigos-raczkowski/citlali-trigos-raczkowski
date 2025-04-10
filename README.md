@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 10 13:14:57 UTC 2025
+" I need an army of angels to cover me while I pull this sword out of the stone " - Kanye West <br/> <br/>Last Updated:  Thu Apr 10 13:39:57 UTC 2025
