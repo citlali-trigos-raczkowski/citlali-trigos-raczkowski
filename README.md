@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Thu Apr 10 17:48:40 UTC 2025
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 10 18:19:17 UTC 2025
