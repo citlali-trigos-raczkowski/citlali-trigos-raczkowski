@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 11 02:40:55 UTC 2025
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Fri Apr 11 03:23:24 UTC 2025
