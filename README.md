@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Fri Apr 11 08:19:48 UTC 2025
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Fri Apr 11 08:43:52 UTC 2025
