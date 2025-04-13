@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Sun Apr 13 08:17:20 UTC 2025
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Sun Apr 13 08:40:55 UTC 2025
