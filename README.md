@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Apr 14 09:16:59 UTC 2025
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Mon Apr 14 09:40:08 UTC 2025
