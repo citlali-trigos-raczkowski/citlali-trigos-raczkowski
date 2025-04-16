@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Wed Apr 16 07:50:04 UTC 2025
+" Decentralize " - Kanye West <br/> <br/>Last Updated:  Wed Apr 16 08:20:21 UTC 2025
