@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Thu Apr 17 10:42:04 UTC 2025
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Thu Apr 17 10:50:44 UTC 2025
