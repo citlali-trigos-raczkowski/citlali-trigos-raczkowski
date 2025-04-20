@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Sun Apr 20 17:13:03 UTC 2025
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sun Apr 20 17:30:31 UTC 2025
