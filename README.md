@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Sun Apr 20 22:32:55 UTC 2025
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sun Apr 20 22:48:42 UTC 2025
