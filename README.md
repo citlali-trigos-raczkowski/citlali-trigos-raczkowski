@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Mon Apr 21 10:52:28 UTC 2025
+" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Mon Apr 21 11:12:23 UTC 2025
