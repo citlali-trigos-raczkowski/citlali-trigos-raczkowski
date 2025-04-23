@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Wed Apr 23 03:49:22 UTC 2025
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Wed Apr 23 04:18:10 UTC 2025
