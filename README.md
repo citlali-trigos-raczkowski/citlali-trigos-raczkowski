@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Fri Apr 25 08:56:46 UTC 2025
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Fri Apr 25 09:19:29 UTC 2025
