@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Sat Apr 26 07:12:56 UTC 2025
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 26 07:26:50 UTC 2025
