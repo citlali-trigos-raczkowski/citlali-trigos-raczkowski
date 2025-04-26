@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Sat Apr 26 21:12:20 UTC 2025
+" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sat Apr 26 21:26:55 UTC 2025
