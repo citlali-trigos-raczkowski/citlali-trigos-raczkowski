@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Thu May 1 20:48:40 UTC 2025
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu May 1 21:14:26 UTC 2025
