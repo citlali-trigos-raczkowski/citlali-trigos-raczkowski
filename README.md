@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We came into a broken world. And we're the cleanup crew. " - Kanye West <br/> <br/>Last Updated:  Thu May 1 09:48:39 UTC 2025
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Thu May 1 10:15:55 UTC 2025
