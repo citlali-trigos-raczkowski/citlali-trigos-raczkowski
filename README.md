@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sat May 10 23:37:47 UTC 2025
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Sat May 10 23:48:46 UTC 2025
