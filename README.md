@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sat May 10 13:49:44 UTC 2025
+" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Sat May 10 14:12:21 UTC 2025
