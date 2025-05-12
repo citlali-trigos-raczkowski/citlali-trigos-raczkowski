@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sun May 11 23:48:57 UTC 2025
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Mon May 12 01:16:49 UTC 2025
