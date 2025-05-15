@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Thu May 15 21:14:21 UTC 2025
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Thu May 15 21:30:30 UTC 2025
