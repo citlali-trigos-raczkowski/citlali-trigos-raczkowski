@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Wed May 21 14:53:15 UTC 2025
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Wed May 21 15:17:12 UTC 2025
