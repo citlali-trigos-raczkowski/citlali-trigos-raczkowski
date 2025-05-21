@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Wed May 21 05:15:33 UTC 2025
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Wed May 21 05:41:22 UTC 2025
