@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Wed May 21 12:31:39 UTC 2025
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Wed May 21 13:18:54 UTC 2025
