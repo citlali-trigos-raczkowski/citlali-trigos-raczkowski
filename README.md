@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Thu May 22 21:30:06 UTC 2025
+" We used to diss Michael Jackson the media made us call him crazy ... then they killed him " - Kanye West <br/> <br/>Last Updated:  Thu May 22 21:41:22 UTC 2025
