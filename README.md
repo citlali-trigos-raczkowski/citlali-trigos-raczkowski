@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Sun May 25 15:13:44 UTC 2025
+" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sun May 25 15:30:04 UTC 2025
