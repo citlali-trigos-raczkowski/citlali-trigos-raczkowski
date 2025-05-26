@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Mon May 26 23:42:42 UTC 2025
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon May 26 23:51:29 UTC 2025
