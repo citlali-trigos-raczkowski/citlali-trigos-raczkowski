@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Tue May 27 22:14:15 UTC 2025
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Tue May 27 22:34:47 UTC 2025
