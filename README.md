@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Wed May 28 05:50:27 UTC 2025
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Wed May 28 06:22:29 UTC 2025
