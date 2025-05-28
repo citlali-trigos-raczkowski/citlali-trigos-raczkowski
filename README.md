@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Wed May 28 10:53:25 UTC 2025
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Wed May 28 11:13:22 UTC 2025
