@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat May 31 10:36:03 UTC 2025
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat May 31 10:48:57 UTC 2025
