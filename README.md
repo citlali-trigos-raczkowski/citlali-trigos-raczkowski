@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Fri Jun 13 11:49:01 UTC 2025
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Fri Jun 13 12:32:05 UTC 2025
