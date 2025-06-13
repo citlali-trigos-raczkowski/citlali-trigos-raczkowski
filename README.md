@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Fri Jun 13 11:13:19 UTC 2025
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Fri Jun 13 11:28:57 UTC 2025
