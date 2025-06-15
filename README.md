@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Jun 15 09:15:18 UTC 2025
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Sun Jun 15 09:38:06 UTC 2025
