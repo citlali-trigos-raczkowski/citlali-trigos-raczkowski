@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Sun Jun 15 10:53:23 UTC 2025
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Sun Jun 15 11:12:13 UTC 2025
