@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Thu Jun 19 15:50:31 UTC 2025
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Thu Jun 19 16:19:04 UTC 2025
