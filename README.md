@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Fri Jun 20 05:16:07 UTC 2025
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 20 05:42:40 UTC 2025
