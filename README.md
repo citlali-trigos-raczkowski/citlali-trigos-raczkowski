@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Mon Jun 23 04:46:44 UTC 2025
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Mon Jun 23 05:17:53 UTC 2025
