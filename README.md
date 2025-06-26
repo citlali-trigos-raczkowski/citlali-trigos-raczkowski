@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Jun 25 23:50:38 UTC 2025
+" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Thu Jun 26 01:16:52 UTC 2025
