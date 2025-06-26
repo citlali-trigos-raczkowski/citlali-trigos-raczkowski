@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Thu Jun 26 14:53:36 UTC 2025
+" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Thu Jun 26 15:16:48 UTC 2025
