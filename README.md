@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon Jun 30 16:48:03 UTC 2025
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Mon Jun 30 17:13:53 UTC 2025
