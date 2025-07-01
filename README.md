@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm giving all Good music artists back the 50% share I have of their masters " - Kanye West <br/> <br/>Last Updated:  Tue Jul 1 14:51:27 UTC 2025
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Tue Jul 1 15:17:02 UTC 2025
