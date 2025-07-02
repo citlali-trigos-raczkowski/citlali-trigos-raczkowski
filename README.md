@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness " - Kanye West <br/> <br/>Last Updated:  Wed Jul 2 05:44:54 UTC 2025
+" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Wed Jul 2 05:55:52 UTC 2025
