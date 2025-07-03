@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 3 09:42:31 UTC 2025
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Thu Jul 3 09:52:43 UTC 2025
