@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 3 23:49:42 UTC 2025
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Fri Jul 4 01:17:17 UTC 2025
