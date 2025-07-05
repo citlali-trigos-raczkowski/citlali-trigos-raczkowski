@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Sat Jul 5 09:48:38 UTC 2025
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sat Jul 5 10:15:10 UTC 2025
