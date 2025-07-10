@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Thu Jul 10 12:34:03 UTC 2025
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Jul 10 13:21:30 UTC 2025
