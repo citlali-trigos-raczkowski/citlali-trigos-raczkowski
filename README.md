@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Jul 12 07:31:47 UTC 2025
+" I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 12 07:49:06 UTC 2025
