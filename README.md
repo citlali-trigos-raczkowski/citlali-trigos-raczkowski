@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Sun Jul 20 08:46:01 UTC 2025
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Sun Jul 20 09:15:44 UTC 2025
