@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 21 05:00:52 UTC 2025
+" Keep squares out yo circle " - Kanye West <br/> <br/>Last Updated:  Mon Jul 21 05:43:22 UTC 2025
