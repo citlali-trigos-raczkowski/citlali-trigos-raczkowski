@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Wed Jul 23 08:51:21 UTC 2025
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Wed Jul 23 09:22:23 UTC 2025
