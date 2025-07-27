@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" So many of us need so much less than we have especially when so many of us are in need " - Kanye West <br/> <br/>Last Updated:  Sun Jul 27 19:48:54 UTC 2025
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Sun Jul 27 20:17:37 UTC 2025
