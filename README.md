@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Jul 28 18:54:03 UTC 2025
+" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Mon Jul 28 19:16:05 UTC 2025
