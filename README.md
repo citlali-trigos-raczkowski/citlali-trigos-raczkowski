@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Wed Jul 30 07:46:52 UTC 2025
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 30 08:22:58 UTC 2025
