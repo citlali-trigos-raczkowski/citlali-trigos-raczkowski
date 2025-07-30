@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Wed Jul 30 06:58:21 UTC 2025
+" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Wed Jul 30 07:28:36 UTC 2025
