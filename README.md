@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Aug 3 09:51:26 UTC 2025
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sun Aug 3 10:16:23 UTC 2025
