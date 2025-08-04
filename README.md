@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Aug 4 18:55:00 UTC 2025
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Mon Aug 4 19:17:07 UTC 2025
