@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Tue Aug 5 22:45:20 UTC 2025
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 5 23:16:21 UTC 2025
