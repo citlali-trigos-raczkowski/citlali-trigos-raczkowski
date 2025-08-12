@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 12 13:49:47 UTC 2025
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 12 14:15:54 UTC 2025
