@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Tue Aug 12 10:44:50 UTC 2025
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Tue Aug 12 10:54:52 UTC 2025
