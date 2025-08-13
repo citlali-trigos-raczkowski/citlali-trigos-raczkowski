@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Wed Aug 13 06:25:07 UTC 2025
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Wed Aug 13 06:52:08 UTC 2025
