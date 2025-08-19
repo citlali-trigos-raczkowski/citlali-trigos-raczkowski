@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together " - Kanye West <br/> <br/>Last Updated:  Tue Aug 19 09:40:00 UTC 2025
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 19 09:49:24 UTC 2025
