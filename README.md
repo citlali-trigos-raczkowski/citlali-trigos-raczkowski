@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Aug 19 21:49:45 UTC 2025
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Tue Aug 19 22:14:23 UTC 2025
