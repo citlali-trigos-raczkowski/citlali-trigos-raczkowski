@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Wed Aug 20 23:13:59 UTC 2025
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Wed Aug 20 23:28:58 UTC 2025
