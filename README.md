@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Mon Aug 25 05:51:02 UTC 2025
+" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Mon Aug 25 06:25:51 UTC 2025
