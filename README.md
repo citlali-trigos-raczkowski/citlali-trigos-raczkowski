@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Mon Aug 25 18:22:27 UTC 2025
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Mon Aug 25 18:48:16 UTC 2025
