@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Wed Aug 27 03:47:18 UTC 2025
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Wed Aug 27 04:18:21 UTC 2025
