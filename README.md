@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Fri Aug 29 15:28:49 UTC 2025
+" We must and will cure homelessness and hunger. We have the capability as a species " - Kanye West <br/> <br/>Last Updated:  Fri Aug 29 15:40:32 UTC 2025
