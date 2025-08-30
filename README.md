@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Sat Aug 30 20:29:54 UTC 2025
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Aug 30 20:40:59 UTC 2025
