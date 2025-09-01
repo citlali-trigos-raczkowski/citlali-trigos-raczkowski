@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch " - Kanye West <br/> <br/>Last Updated:  Mon Sep 1 19:35:40 UTC 2025
+" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Mon Sep 1 19:48:38 UTC 2025
