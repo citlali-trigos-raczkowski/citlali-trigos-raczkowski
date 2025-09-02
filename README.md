@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Tue Sep 2 04:18:17 UTC 2025
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Tue Sep 2 04:42:28 UTC 2025
