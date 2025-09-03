@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Wed Sep 3 20:37:32 UTC 2025
+" For me to say I wasn't a genius I'd just be lying to you and to myself " - Kanye West <br/> <br/>Last Updated:  Wed Sep 3 20:48:39 UTC 2025
