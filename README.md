@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 07:37:59 UTC 2025
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 07:48:41 UTC 2025
