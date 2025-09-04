@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 13:01:54 UTC 2025
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 13:35:00 UTC 2025
