@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 15:32:08 UTC 2025
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Thu Sep 4 15:48:54 UTC 2025
