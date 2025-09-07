@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Sun Sep 7 02:41:26 UTC 2025
+" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sun Sep 7 03:23:28 UTC 2025
