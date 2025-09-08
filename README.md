@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Mon Sep 8 17:42:49 UTC 2025
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Mon Sep 8 17:50:58 UTC 2025
