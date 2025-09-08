@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Mon Sep 8 13:17:02 UTC 2025
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Mon Sep 8 13:44:32 UTC 2025
