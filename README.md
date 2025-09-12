@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Fri Sep 12 07:27:21 UTC 2025
+" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 12 07:37:02 UTC 2025
