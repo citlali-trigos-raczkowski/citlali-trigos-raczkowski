@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Fri Sep 12 09:30:23 UTC 2025
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 12 09:48:39 UTC 2025
