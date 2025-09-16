@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Tue Sep 16 16:52:50 UTC 2025
+" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Tue Sep 16 17:12:31 UTC 2025
