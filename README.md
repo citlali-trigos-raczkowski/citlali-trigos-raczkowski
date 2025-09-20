@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 20 18:18:09 UTC 2025
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Sat Sep 20 18:40:06 UTC 2025
