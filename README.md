@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Tweeting is legal and also therapeutic " - Kanye West <br/> <br/>Last Updated:  Mon Sep 22 13:43:04 UTC 2025
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Mon Sep 22 13:51:41 UTC 2025
