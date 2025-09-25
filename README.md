@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head " - Kanye West <br/> <br/>Last Updated:  Thu Sep 25 01:09:37 UTC 2025
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Thu Sep 25 02:39:04 UTC 2025
