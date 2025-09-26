@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Fri Sep 26 17:49:24 UTC 2025
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Fri Sep 26 18:19:18 UTC 2025
