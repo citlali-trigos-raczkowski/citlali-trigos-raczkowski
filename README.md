@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 27 20:29:43 UTC 2025
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Sep 27 20:40:20 UTC 2025
