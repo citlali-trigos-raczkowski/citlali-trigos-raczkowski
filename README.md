@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest pain in life is that I will never be able to see myself perform live. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 27 05:13:19 UTC 2025
+" You basically can say anything to someone on an email or text as long as you put LOL at the end. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 27 05:29:42 UTC 2025
