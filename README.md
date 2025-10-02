@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 17:10:59 UTC 2025
+" My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 17:26:49 UTC 2025
