@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 11:48:40 UTC 2025
+" People tried to talk me out of running for President. Never let weak controlling people kill your spirit " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 12:29:40 UTC 2025
