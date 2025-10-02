@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 18:20:38 UTC 2025
+" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 18:43:40 UTC 2025
