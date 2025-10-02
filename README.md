@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 16:52:58 UTC 2025
+" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Thu Oct 2 17:10:59 UTC 2025
