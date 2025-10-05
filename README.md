@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sun Oct 5 22:29:03 UTC 2025
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Sun Oct 5 22:39:32 UTC 2025
