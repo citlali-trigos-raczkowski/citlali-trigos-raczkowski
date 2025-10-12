@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Sun Oct 12 01:12:52 UTC 2025
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Sun Oct 12 02:40:38 UTC 2025
