@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I want the world to be better! All I want is positive! All I want is dopeness! " - Kanye West <br/> <br/>Last Updated:  Mon Oct 13 04:51:14 UTC 2025
+" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Mon Oct 13 05:15:39 UTC 2025
