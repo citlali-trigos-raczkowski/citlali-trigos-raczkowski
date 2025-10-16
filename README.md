@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself " - Kanye West <br/> <br/>Last Updated:  Thu Oct 16 19:35:28 UTC 2025
+" Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary. " - Kanye West <br/> <br/>Last Updated:  Thu Oct 16 19:48:39 UTC 2025
