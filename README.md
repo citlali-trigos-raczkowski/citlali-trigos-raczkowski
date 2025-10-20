@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Mon Oct 20 18:48:59 UTC 2025
+" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Mon Oct 20 19:12:00 UTC 2025
