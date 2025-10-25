@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 25 17:48:45 UTC 2025
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Sat Oct 25 18:19:26 UTC 2025
