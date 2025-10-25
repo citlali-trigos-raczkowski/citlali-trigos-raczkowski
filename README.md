@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Sat Oct 25 16:16:35 UTC 2025
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sat Oct 25 16:40:37 UTC 2025
