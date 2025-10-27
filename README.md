@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Mon Oct 27 12:33:51 UTC 2025
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Mon Oct 27 13:19:06 UTC 2025
