@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Thu Oct 30 14:42:21 UTC 2025
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Thu Oct 30 14:52:51 UTC 2025
