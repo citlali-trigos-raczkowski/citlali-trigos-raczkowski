@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Today is the best day ever and tomorrow's going to be even better " - Kanye West <br/> <br/>Last Updated:  Thu Oct 30 23:48:50 UTC 2025
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Fri Oct 31 01:13:22 UTC 2025
