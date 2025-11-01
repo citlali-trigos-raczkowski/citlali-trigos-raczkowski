@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Distraction is the enemy of vision " - Kanye West <br/> <br/>Last Updated:  Sat Nov 1 14:48:37 UTC 2025
+" My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth " - Kanye West <br/> <br/>Last Updated:  Sat Nov 1 15:12:31 UTC 2025
