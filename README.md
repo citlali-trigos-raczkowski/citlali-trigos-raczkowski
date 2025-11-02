@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sun Nov 2 07:37:04 UTC 2025
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Sun Nov 2 07:48:38 UTC 2025
