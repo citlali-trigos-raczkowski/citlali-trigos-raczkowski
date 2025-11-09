@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We as a people will heal. We will insure the well being of each other " - Kanye West <br/> <br/>Last Updated:  Sun Nov 9 18:42:38 UTC 2025
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Sun Nov 9 18:51:08 UTC 2025
