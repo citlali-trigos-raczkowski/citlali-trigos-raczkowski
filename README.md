@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 12 17:15:37 UTC 2025
+" My memories are from the future " - Kanye West <br/> <br/>Last Updated:  Wed Nov 12 17:39:32 UTC 2025
