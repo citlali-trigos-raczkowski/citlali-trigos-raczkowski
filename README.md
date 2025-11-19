@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 19 10:17:45 UTC 2025
+" I feel calm but energized " - Kanye West <br/> <br/>Last Updated:  Wed Nov 19 10:44:00 UTC 2025
