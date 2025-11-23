@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sun Nov 23 21:28:40 UTC 2025
+" Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes? " - Kanye West <br/> <br/>Last Updated:  Sun Nov 23 21:39:29 UTC 2025
