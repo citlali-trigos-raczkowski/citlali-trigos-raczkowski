@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Manga all day " - Kanye West <br/> <br/>Last Updated:  Sun Nov 23 09:30:38 UTC 2025
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sun Nov 23 09:48:37 UTC 2025
