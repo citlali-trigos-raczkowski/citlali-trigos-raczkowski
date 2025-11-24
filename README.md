@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sun Nov 23 23:49:39 UTC 2025
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Mon Nov 24 01:19:31 UTC 2025
