@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Wed Nov 26 23:48:39 UTC 2025
+" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Thu Nov 27 01:14:00 UTC 2025
