@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" 2024 " - Kanye West <br/> <br/>Last Updated:  Sat Nov 29 01:13:24 UTC 2025
+" I feel like me and Taylor might still have sex " - Kanye West <br/> <br/>Last Updated:  Sat Nov 29 02:47:17 UTC 2025
