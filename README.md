@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Mon Dec 1 21:27:52 UTC 2025
+" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Mon Dec 1 21:37:18 UTC 2025
