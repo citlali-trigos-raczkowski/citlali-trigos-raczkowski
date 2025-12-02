@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Tue Dec 2 16:53:08 UTC 2025
+" Artists are founders " - Kanye West <br/> <br/>Last Updated:  Tue Dec 2 17:18:54 UTC 2025
