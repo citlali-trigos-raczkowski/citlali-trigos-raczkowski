@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Dec 4 17:18:38 UTC 2025
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Thu Dec 4 17:43:43 UTC 2025
