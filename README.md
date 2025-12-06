@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We are here to complete the revolution. We are building the future " - Kanye West <br/> <br/>Last Updated:  Sat Dec 6 12:30:22 UTC 2025
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 6 13:13:25 UTC 2025
