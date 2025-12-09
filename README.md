@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Tue Dec 9 17:42:25 UTC 2025
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Tue Dec 9 17:52:36 UTC 2025
