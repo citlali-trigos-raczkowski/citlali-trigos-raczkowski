@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Fri Dec 12 07:50:31 UTC 2025
+" Winning is the only option " - Kanye West <br/> <br/>Last Updated:  Fri Dec 12 08:24:16 UTC 2025
