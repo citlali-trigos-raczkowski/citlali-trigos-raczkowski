@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Pulling up in the may bike " - Kanye West <br/> <br/>Last Updated:  Fri Dec 12 09:55:56 UTC 2025
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Fri Dec 12 10:20:23 UTC 2025
