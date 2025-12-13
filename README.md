@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 13 03:45:52 UTC 2025
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat Dec 13 04:21:52 UTC 2025
