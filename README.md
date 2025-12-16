@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Tue Dec 16 07:51:49 UTC 2025
+" The world needs more Joy... this idea is super fresh " - Kanye West <br/> <br/>Last Updated:  Tue Dec 16 08:24:32 UTC 2025
