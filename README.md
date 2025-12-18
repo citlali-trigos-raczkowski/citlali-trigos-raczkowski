@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I channel Will Ferrell when I'm at the daddy daughter dances " - Kanye West <br/> <br/>Last Updated:  Thu Dec 18 09:22:21 UTC 2025
+" I still think I am the greatest. " - Kanye West <br/> <br/>Last Updated:  Thu Dec 18 10:19:55 UTC 2025
