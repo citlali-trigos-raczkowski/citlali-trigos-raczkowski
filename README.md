@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Life is the ultimate gift " - Kanye West <br/> <br/>Last Updated:  Tue Dec 23 17:16:42 UTC 2025
+" I'm the new Moses " - Kanye West <br/> <br/>Last Updated:  Tue Dec 23 17:42:15 UTC 2025
