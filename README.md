@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Tue Dec 23 19:14:33 UTC 2025
+" My dad got me a drone for Christmas " - Kanye West <br/> <br/>Last Updated:  Tue Dec 23 19:29:11 UTC 2025
