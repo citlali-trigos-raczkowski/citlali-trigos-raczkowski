@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Thu Dec 25 18:50:11 UTC 2025
+" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Thu Dec 25 19:12:35 UTC 2025
