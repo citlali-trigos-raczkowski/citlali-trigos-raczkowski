@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 1 16:21:04 UTC 2026
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 1 16:48:33 UTC 2026
