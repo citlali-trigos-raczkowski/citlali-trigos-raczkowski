@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Buy property " - Kanye West <br/> <br/>Last Updated:  Mon Jan 5 17:55:31 UTC 2026
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 5 18:28:01 UTC 2026
