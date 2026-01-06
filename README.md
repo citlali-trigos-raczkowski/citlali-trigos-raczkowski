@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Tue Jan 6 09:46:44 UTC 2026
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Tue Jan 6 10:19:02 UTC 2026
