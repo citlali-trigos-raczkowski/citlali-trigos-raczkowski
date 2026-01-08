@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Ma$e is one of my favorite rappers and I based a lot of my flows off of him " - Kanye West <br/> <br/>Last Updated:  Thu Jan 8 20:56:20 UTC 2026
+" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Jan 8 21:19:48 UTC 2026
