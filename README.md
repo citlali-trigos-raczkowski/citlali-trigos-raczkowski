@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I watch Bladerunner on repeat " - Kanye West <br/> <br/>Last Updated:  Fri Jan 9 07:26:23 UTC 2026
+" I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates " - Kanye West <br/> <br/>Last Updated:  Fri Jan 9 07:45:01 UTC 2026
