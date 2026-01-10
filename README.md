@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our family " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 13:53:12 UTC 2026
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 14:15:24 UTC 2026
