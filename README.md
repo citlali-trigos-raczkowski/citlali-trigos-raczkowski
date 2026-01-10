@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 18:23:14 UTC 2026
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 18:49:20 UTC 2026
