@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 16:45:57 UTC 2026
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 17:13:54 UTC 2026
