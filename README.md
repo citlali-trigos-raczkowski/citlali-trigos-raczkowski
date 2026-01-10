@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 05:52:27 UTC 2026
+" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 06:24:53 UTC 2026
