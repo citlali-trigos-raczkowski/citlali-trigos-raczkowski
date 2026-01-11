@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You basically can say anything to someone on an email or text as long as you put LOL at the end. " - Kanye West <br/> <br/>Last Updated:  Sat Jan 10 23:49:34 UTC 2026
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Sun Jan 11 01:38:16 UTC 2026
