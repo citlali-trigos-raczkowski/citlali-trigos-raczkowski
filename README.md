@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 12 08:56:02 UTC 2026
+" I'd like to meet with Tim Cook. I got some ideas " - Kanye West <br/> <br/>Last Updated:  Mon Jan 12 09:29:55 UTC 2026
