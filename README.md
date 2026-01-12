@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun. " - Kanye West <br/> <br/>Last Updated:  Mon Jan 12 15:48:18 UTC 2026
+" The world is our family " - Kanye West <br/> <br/>Last Updated:  Mon Jan 12 16:22:17 UTC 2026
