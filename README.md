@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Thu Jan 15 16:29:19 UTC 2026
+" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Thu Jan 15 17:03:01 UTC 2026
