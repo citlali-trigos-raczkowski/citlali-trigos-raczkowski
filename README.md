@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Thu Jan 15 20:46:06 UTC 2026
+" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Thu Jan 15 21:17:34 UTC 2026
