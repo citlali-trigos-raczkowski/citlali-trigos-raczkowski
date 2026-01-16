@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" You basically can say anything to someone on an email or text as long as you put LOL at the end. " - Kanye West <br/> <br/>Last Updated:  Fri Jan 16 06:28:20 UTC 2026
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Fri Jan 16 06:57:05 UTC 2026
