@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Fri Jan 16 05:21:04 UTC 2026
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Fri Jan 16 05:47:03 UTC 2026
