@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Sat Jan 17 05:24:11 UTC 2026
+" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Jan 17 05:42:14 UTC 2026
