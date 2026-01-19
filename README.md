@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Mon Jan 19 18:26:25 UTC 2026
+" Let's be like water " - Kanye West <br/> <br/>Last Updated:  Mon Jan 19 18:54:59 UTC 2026
