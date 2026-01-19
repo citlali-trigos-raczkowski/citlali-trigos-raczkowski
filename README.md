@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People say it's enough and I got my point across ... the point isn't across until we cross the point " - Kanye West <br/> <br/>Last Updated:  Mon Jan 19 22:54:55 UTC 2026
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Mon Jan 19 23:16:52 UTC 2026
