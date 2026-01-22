@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I am running for President of the United States " - Kanye West <br/> <br/>Last Updated:  Thu Jan 22 23:17:18 UTC 2026
+" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Thu Jan 22 23:41:18 UTC 2026
