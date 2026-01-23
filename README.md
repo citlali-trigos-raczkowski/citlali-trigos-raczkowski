@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Fur pillows are hard to actually sleep on " - Kanye West <br/> <br/>Last Updated:  Fri Jan 23 06:28:16 UTC 2026
+" I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend " - Kanye West <br/> <br/>Last Updated:  Fri Jan 23 06:58:37 UTC 2026
