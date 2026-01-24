@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Sat Jan 24 03:09:40 UTC 2026
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat Jan 24 04:05:22 UTC 2026
