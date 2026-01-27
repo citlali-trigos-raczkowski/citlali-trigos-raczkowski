@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 01:27:22 UTC 2026
+" We will be recognized " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 03:23:05 UTC 2026
