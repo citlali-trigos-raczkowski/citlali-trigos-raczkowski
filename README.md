@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Who made up the term major label in the first place??? " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 05:04:56 UTC 2026
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 05:43:49 UTC 2026
