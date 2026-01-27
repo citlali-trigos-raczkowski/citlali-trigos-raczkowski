@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 19:13:27 UTC 2026
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Tue Jan 27 19:41:00 UTC 2026
