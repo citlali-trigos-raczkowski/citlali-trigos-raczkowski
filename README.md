@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Wed Jan 28 05:58:05 UTC 2026
+" Just stop lying about shit. Just stop lying. " - Kanye West <br/> <br/>Last Updated:  Wed Jan 28 06:41:34 UTC 2026
