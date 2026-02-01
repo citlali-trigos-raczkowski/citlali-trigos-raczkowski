@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sun Feb 1 14:57:39 UTC 2026
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Sun Feb 1 15:27:53 UTC 2026
