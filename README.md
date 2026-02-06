@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Fri Feb 6 08:37:20 UTC 2026
+" I'm nice at ping pong " - Kanye West <br/> <br/>Last Updated:  Fri Feb 6 09:26:09 UTC 2026
