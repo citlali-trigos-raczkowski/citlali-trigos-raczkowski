@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Sat Feb 7 20:21:21 UTC 2026
+" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Sat Feb 7 20:49:30 UTC 2026
