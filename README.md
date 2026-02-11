@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" There are people sleeping in parking lots " - Kanye West <br/> <br/>Last Updated:  Wed Feb 11 21:29:29 UTC 2026
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Wed Feb 11 21:59:46 UTC 2026
