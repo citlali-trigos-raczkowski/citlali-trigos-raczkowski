@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black " - Kanye West <br/> <br/>Last Updated:  Thu Feb 12 08:39:52 UTC 2026
+" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Thu Feb 12 09:30:38 UTC 2026
