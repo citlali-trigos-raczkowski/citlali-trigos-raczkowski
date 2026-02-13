@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying. " - Kanye West <br/> <br/>Last Updated:  Fri Feb 13 15:52:04 UTC 2026
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Fri Feb 13 16:39:39 UTC 2026
