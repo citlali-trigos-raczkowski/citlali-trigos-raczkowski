@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 02:50:52 UTC 2026
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 04:28:12 UTC 2026
