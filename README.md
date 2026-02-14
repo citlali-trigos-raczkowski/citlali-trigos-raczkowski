@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 20:48:32 UTC 2026
+" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 21:19:36 UTC 2026
