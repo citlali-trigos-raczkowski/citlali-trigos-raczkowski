@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 17:55:47 UTC 2026
+" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Feb 14 18:31:19 UTC 2026
