@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Tue Feb 17 15:03:25 UTC 2026
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Tue Feb 17 16:06:29 UTC 2026
