@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Wed Feb 18 11:05:19 UTC 2026
+" Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth " - Kanye West <br/> <br/>Last Updated:  Wed Feb 18 11:53:33 UTC 2026
