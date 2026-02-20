@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Fri Feb 20 05:30:44 UTC 2026
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Fri Feb 20 06:33:32 UTC 2026
