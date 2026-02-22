@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sun Feb 22 12:39:41 UTC 2026
+" Empathy is the glue " - Kanye West <br/> <br/>Last Updated:  Sun Feb 22 13:30:56 UTC 2026
