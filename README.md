@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Decentralize " - Kanye West <br/> <br/>Last Updated:  Mon Feb 23 16:10:40 UTC 2026
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Mon Feb 23 17:17:01 UTC 2026
