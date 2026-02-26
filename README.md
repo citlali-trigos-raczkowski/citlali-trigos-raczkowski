@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Feb 26 10:05:35 UTC 2026
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Thu Feb 26 11:05:14 UTC 2026
