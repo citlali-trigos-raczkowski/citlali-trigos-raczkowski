@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me, money is not my definition of success. Inspiring people is a definition of success " - Kanye West <br/> <br/>Last Updated:  Sat Feb 28 11:50:48 UTC 2026
+" I wish I had a friend like me " - Kanye West <br/> <br/>Last Updated:  Sat Feb 28 12:36:44 UTC 2026
