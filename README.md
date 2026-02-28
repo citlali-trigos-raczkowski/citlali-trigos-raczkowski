@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The media tries to kill our heroes one at a time " - Kanye West <br/> <br/>Last Updated:  Sat Feb 28 10:45:49 UTC 2026
+" The thought police want to suppress freedom of thought " - Kanye West <br/> <br/>Last Updated:  Sat Feb 28 11:15:44 UTC 2026
