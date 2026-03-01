@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 1 07:08:15 UTC 2026
+" Burn that excel spread sheet " - Kanye West <br/> <br/>Last Updated:  Sun Mar 1 07:46:10 UTC 2026
