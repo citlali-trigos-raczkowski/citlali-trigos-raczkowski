@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 1 23:19:00 UTC 2026
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sun Mar 1 23:44:18 UTC 2026
