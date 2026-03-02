@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" One day I'm gon' marry a porn star " - Kanye West <br/> <br/>Last Updated:  Mon Mar 2 10:04:41 UTC 2026
+" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Mon Mar 2 11:00:57 UTC 2026
