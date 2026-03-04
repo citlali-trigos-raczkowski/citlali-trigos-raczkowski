@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Wed Mar 4 16:01:30 UTC 2026
+" We will change the paradigm " - Kanye West <br/> <br/>Last Updated:  Wed Mar 4 17:01:08 UTC 2026
