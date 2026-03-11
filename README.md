@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I care. I care about everything. Sometimes not giving a f#%k is caring the most. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 11 11:59:58 UTC 2026
+" We all self-conscious. I'm just the first to admit it. " - Kanye West <br/> <br/>Last Updated:  Wed Mar 11 13:19:58 UTC 2026
