@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 10:26:23 UTC 2026
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 11:12:34 UTC 2026
