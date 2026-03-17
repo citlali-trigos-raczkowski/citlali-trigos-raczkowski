@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 05:37:07 UTC 2026
+" I am one of the most famous people on the planet " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 06:42:11 UTC 2026
