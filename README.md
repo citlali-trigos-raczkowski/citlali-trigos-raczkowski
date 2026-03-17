@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 13:03:00 UTC 2026
+" George Bush doesn't care about black people " - Kanye West <br/> <br/>Last Updated:  Tue Mar 17 14:20:25 UTC 2026
