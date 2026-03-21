@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" The world is our office " - Kanye West <br/> <br/>Last Updated:  Sat Mar 21 10:50:52 UTC 2026
+" I give up drinking every week " - Kanye West <br/> <br/>Last Updated:  Sat Mar 21 11:19:24 UTC 2026
