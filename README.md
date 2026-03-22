@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Sun Mar 22 10:34:28 UTC 2026
+" Style is genderless " - Kanye West <br/> <br/>Last Updated:  Sun Mar 22 10:59:20 UTC 2026
