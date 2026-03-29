@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Sometimes you have to get rid of everything " - Kanye West <br/> <br/>Last Updated:  Sun Mar 29 08:01:12 UTC 2026
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Sun Mar 29 08:57:36 UTC 2026
