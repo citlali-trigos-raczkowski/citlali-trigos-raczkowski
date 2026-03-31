@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Mon Mar 30 23:30:46 UTC 2026
+" Culture is the most powerful force in humanity under God " - Kanye West <br/> <br/>Last Updated:  Tue Mar 31 00:03:28 UTC 2026
