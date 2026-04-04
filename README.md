@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We have to evolve " - Kanye West <br/> <br/>Last Updated:  Sat Apr 4 08:21:40 UTC 2026
+" Trust me ... I won't stop " - Kanye West <br/> <br/>Last Updated:  Sat Apr 4 09:03:52 UTC 2026
