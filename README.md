@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Man... whatever happened to my antique fish tank? " - Kanye West <br/> <br/>Last Updated:  Fri Apr 10 15:04:18 UTC 2026
+" For me giving up is way harder than trying. " - Kanye West <br/> <br/>Last Updated:  Fri Apr 10 16:05:58 UTC 2026
