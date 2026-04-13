@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will cure hunger " - Kanye West <br/> <br/>Last Updated:  Sun Apr 12 23:30:03 UTC 2026
+" Only free thinkers " - Kanye West <br/> <br/>Last Updated:  Mon Apr 13 00:02:10 UTC 2026
