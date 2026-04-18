@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Sat Apr 18 22:33:40 UTC 2026
+" All the musicians will be free " - Kanye West <br/> <br/>Last Updated:  Sat Apr 18 23:17:58 UTC 2026
