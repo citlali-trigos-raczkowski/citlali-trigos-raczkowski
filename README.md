@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I don't expect to be understood at all. " - Kanye West <br/> <br/>Last Updated:  Fri May 22 20:17:12 UTC 2026
+" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Fri May 22 21:40:26 UTC 2026
