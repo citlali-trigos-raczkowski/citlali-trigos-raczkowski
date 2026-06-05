@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Fri Jun 5 21:54:16 UTC 2026
+" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Fri Jun 5 23:03:15 UTC 2026
