@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 17 12:01:54 UTC 2026
+" People only get jealous when they care. " - Kanye West <br/> <br/>Last Updated:  Wed Jun 17 16:01:34 UTC 2026
