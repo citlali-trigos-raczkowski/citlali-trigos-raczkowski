@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Wed Jul 1 20:49:42 UTC 2026
+" Believe in your flyness...conquer your shyness. " - Kanye West <br/> <br/>Last Updated:  Wed Jul 1 22:14:30 UTC 2026
