@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sat Jul 4 19:53:35 UTC 2026
+" Everything you do in life stems from either fear or love " - Kanye West <br/> <br/>Last Updated:  Sat Jul 4 20:51:36 UTC 2026
