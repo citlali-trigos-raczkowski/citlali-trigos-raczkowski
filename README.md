@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Jul 18 13:04:32 UTC 2026
+" We will heal. We will cure. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 18 14:30:48 UTC 2026
