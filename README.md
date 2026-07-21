@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I've known my mom since I was zero years old. She is quite dope. " - Kanye West <br/> <br/>Last Updated:  Mon Jul 20 23:38:45 UTC 2026
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Tue Jul 21 01:07:10 UTC 2026
