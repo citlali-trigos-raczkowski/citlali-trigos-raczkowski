@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sat Jul 25 17:40:23 UTC 2026
+" You can't look at a glass half full or empty if it's overflowing. " - Kanye West <br/> <br/>Last Updated:  Sat Jul 25 18:38:21 UTC 2026
