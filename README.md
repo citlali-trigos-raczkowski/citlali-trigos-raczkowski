@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Sun Aug 9 09:09:36 UTC 2026
+" We must form a union. We must unify " - Kanye West <br/> <br/>Last Updated:  Sun Aug 9 09:54:32 UTC 2026
