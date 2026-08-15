@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome! " - Kanye West <br/> <br/>Last Updated:  Sat Aug 15 07:07:09 UTC 2026
+" We're going to move the entire music industry into the 21st Century " - Kanye West <br/> <br/>Last Updated:  Sat Aug 15 07:42:36 UTC 2026
