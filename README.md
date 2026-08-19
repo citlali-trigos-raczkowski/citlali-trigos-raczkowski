@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I got any cooler I would freeze to death " - Kanye West <br/> <br/>Last Updated:  Wed Aug 19 04:09:21 UTC 2026
+" Manga all day " - Kanye West <br/> <br/>Last Updated:  Wed Aug 19 04:49:53 UTC 2026
