@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I'm a creative genius " - Kanye West <br/> <br/>Last Updated:  Thu Aug 20 23:02:51 UTC 2026
+" Perhaps I should have been more like water today " - Kanye West <br/> <br/>Last Updated:  Thu Aug 20 23:38:05 UTC 2026
