@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI " - Kanye West <br/> <br/>Last Updated:  Sun Sep 6 00:12:34 UTC 2026
+" I'm on the pursuit of awesomeness, excellence is the bare minimum. " - Kanye West <br/> <br/>Last Updated:  Sun Sep 6 04:40:29 UTC 2026
