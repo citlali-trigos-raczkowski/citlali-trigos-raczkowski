@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If I don't scream, if I don't say something then no one's going to say anything. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 11 04:57:28 UTC 2026
+" I love sleep; it's my favorite. " - Kanye West <br/> <br/>Last Updated:  Fri Sep 11 09:23:39 UTC 2026
