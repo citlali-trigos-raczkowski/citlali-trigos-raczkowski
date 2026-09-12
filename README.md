@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" Speak God's truth to power " - Kanye West <br/> <br/>Last Updated:  Sat Sep 12 08:58:57 UTC 2026
+" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Sat Sep 12 12:46:21 UTC 2026
