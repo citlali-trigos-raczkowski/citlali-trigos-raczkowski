@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I feel like I'm too busy writing history to read it. " - Kanye West <br/> <br/>Last Updated:  Mon Sep 14 23:16:11 UTC 2026
+" I make awesome decisions in bike stores!!! " - Kanye West <br/> <br/>Last Updated:  Tue Sep 15 01:40:00 UTC 2026
