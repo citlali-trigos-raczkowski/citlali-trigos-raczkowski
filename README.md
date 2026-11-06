@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" All you have to be is yourself " - Kanye West <br/> <br/>Last Updated:  Thu Nov 5 22:18:10 UTC 2026
+" My greatest award is what I'm about to do. " - Kanye West <br/> <br/>Last Updated:  Fri Nov 6 02:40:49 UTC 2026
