@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" I leave my emojis bart Simpson color " - Kanye West <br/> <br/>Last Updated:  Tue Nov 10 11:47:32 UTC 2026
+" I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle " - Kanye West <br/> <br/>Last Updated:  Tue Nov 10 19:14:22 UTC 2026
