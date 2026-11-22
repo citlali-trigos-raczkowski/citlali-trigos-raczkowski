@@ -12,4 +12,4 @@ I'm currently reading (3/21):
 - Sapiens by Yuval Noah Harari
 
 This page gets automatically updated with a Kanye Quote every 15 minutes, using [Github Actions](https://github.com/features/actions) and [kanye.rest](https://kanye.rest/).
-" If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed. " - Kanye West <br/> <br/>Last Updated:  Sat Nov 21 21:59:20 UTC 2026
+" We've gotten comfortable with not having what we deserve " - Kanye West <br/> <br/>Last Updated:  Sun Nov 22 02:00:28 UTC 2026
